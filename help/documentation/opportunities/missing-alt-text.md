@@ -38,3 +38,16 @@ The Missing Alt Text opportunity is displayed in the Opportunities tab of the Si
 ![Missing alt text suggest solution resolution](../assets/missing-alt-text/resolve.png)
 
 1-2 sentences describing how to resolve this opportunity and describe the UI for doing so.
+
+
+
+## Learn how to use this Opportunity
+
+For more information on how to use the Missing Alt Text opportunity, see the tutorials below.
+
+<!--CARDS 
+
+* ../tutorials/use-cases/increase-serp.md
+* ../tutorials/walkthroughs/add-site.md
+
+-->
