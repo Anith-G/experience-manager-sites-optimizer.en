@@ -6,12 +6,14 @@ user-guide-description: This is a description for the user guide that will be di
 
 # Experience Manager Sites Optimizer
 
-+ [Overview](overview.md)
-+ [Topics](./topics/overview.md)
++ [Sites Optimizer](overview.md)
++ Topics{#topics}
+  + [Overview](./topics/overview.md)
   + [Accessibility](./topics/accessibility.md)
   + [Performance](./topics/performance.md)
   + [SEO](./topics/seo.md)
-+ [Documentation](./documentation/overview.md)
++ Documentation{#documentation}
+  + [Overview](./documentation/overview.md)
   + [Dashboard](./documentation/dashboard.md)
   + [Navigation](./documentation/navigation.md)
   + [Etc](./documentation/etc.md)
@@ -19,7 +21,8 @@ user-guide-description: This is a description for the user guide that will be di
     + [Broken back links](./documentation/opportunities/broken-back-links.md)
     + [Missing alt text](./documentation/opportunities/missing-alt-text.md)
   + [Licensing](./documentation/licensing.md)
-+ [Tutorials](./tutorials/overview.md)
++ Tutorials{#tutorials}
+  + [Overview](./tutorials/overview.md)
   + Walkthroughs{#walkthroughs}
     + [Get started with Sites Optimizer](./tutorials/walkthroughs/get-started.md)
     + [Add a new site to Sites Optimizer](./tutorials/walkthroughs/add-site.md)
