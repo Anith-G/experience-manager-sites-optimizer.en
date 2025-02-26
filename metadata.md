@@ -2,6 +2,7 @@
 solution: Experience Manager
 product: adobe experience manager
 type: Documentation
+description: AEM Sites Optimizer documentation.
 index: y
 git-repo: https://github.com/AdobeDocs/experience-manager-sites-optimizer.en
 feature-set: Experience Manager Assets,Experience Manager Sites,Experience Manager, Experience Manager Forms, Experience Manager Cloud Manager
