@@ -6,12 +6,14 @@ user-guide-description: This is a description for the user guide that will be di
 
 # Experience Manager Sites Optimizer {#content}
 
-+ [Sites Optimizer](/help/overview.md)
-+ Topics{#topics}
-  + [Overview](/help/topics/overview.md)
-  + [Accessibility](/help/topics/accessibility.md)
-  + [Performance](/help/topics/performance.md)
-  + [SEO](/help/topics/seo.md)
++ [Sites Optimizer](/help/sites-optimizer.md)
++ Opportunity types{#opportunity-types}
+  + [Overview](/help/opportunity-types/overview.md)
+  + [Traffic acquisition](/help/opportunity-types/traffic-acquisition.md)
+  + [Engagement](/help/opportunity-types/engagement.md)
+  + [Site health](/help/opportunity-types/site-health.md)
+  + [Security posture](/help/opportunity-types/security-posture.md)
+  + [Form optimization](/help/opportunity-types/form-optimization.md)
 + Documentation{#documentation}
   + [Overview](/help/documentation/overview.md)
   + [Dashboard](/help/documentation/dashboard.md)

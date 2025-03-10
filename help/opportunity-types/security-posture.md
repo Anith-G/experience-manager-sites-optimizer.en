@@ -1,9 +1,11 @@
 ---
-title: Optimize SEO with Sites Optimizer
+title: Optimize Security Posture with Sites Optimizer
 description: This is the topics overview.
 ---
 
-# SEO
+# Security posture opportunities
+
+![Security posture opportunities](./assets/security-posture/hero.png){align="center"}
 
 Learn how Sites Optimizer can help you improve your site's search engine optimization (SEO).
 
