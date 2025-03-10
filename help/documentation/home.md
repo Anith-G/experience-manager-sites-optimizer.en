@@ -24,7 +24,7 @@ The Site Selector section allows you to choose the AEN site you want to assess a
 
 ![Site Optimizer navigation](./assets/dashboard/navigation.png){align="center"}
 
-The Navigation section provides quick access to key areas of the Sites Optimizer, including:
+The Navigation section provides quick, persistent access to key areas of the Sites Optimizer from anywhere in Sites Optimizer, including:
 
 * **Home** - The main dashboard, providing a high-level overview of your site's performance and opportunities for improvement.
 * **Opportunities** - View and manage the opportunities identified by Sites Optimizer, including those that have been optimized and those that remain unoptimized.
@@ -47,9 +47,9 @@ The Site Summary section provides a snapshot of your site's performance, how Sit
 
 ![Site Optimizer high impact opportunities](./assets/dashboard/high-impact-opportunities.png){align="center"}
 
-The High Impact Opportunities section highlights the most significant opportunities for improvement, based on their potential impact on your site's performance. These opportunities are organized by type, making it easy to prioritize your optimization efforts.
+The High Impact Opportunities section highlights the most significant pending opportunities for improvement, based on their potential impact on your site's performance. These opportunities are organized by type, making it easy to prioritize your optimization efforts.
 
-Pending opportunities can be filtered by keywords, tags, or URLs, or by [opportunity type](../opportunity-types/overview.md) to help you focus on the most critical areas of improvement.
+Opportunities can be filtered by keywords, tags, or URLs, or by [opportunity type](../opportunity-types/overview.md) to help you focus on the most critical areas of improvement.
 
 ### Opportunity details
 

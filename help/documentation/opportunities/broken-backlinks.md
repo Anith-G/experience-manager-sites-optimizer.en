@@ -1,0 +1,84 @@
+---
+title: Missing Image Alt Text Opportunity Documentation
+description: This is the documentation overview.
+badgeSEO: label="SEO" type="Caution" url="../../topics/seo.md" tooltip="SEO"
+badgeAccessibility: label="Accessibility" type="Caution" url="../../topics/accessibility.md" tooltip="SEO"
+
+---
+
+# Broken backlinks opportunity
+
+![Broken backlinks opportunity](./assets/broken-backlinks/hero.png)
+
+The broken backlinks opportunity identifies links from other websites to your site that lead to a 404 error. Since search engines use backlinks to determine search relevance, broken links can negatively impact your site's SEO and discoverability. These issues can arise from factors such as URL changes or the removal of the linked page.
+
+The broken backlinks opportunity displays a summary at the top of the page, including a synopsis of the problem and its impact on your site and business.
+
+* **Projected traffic list** – The estimated traffic loss due to broken backlinks.
+* **Projected traffic value** - The estimated value of the lost traffic.
+
+## Auto-identify
+
+![Auto-identify broken backlinks](../assets/broken-backlinks/identify.png) 
+
+The broken backlinks opportunity lists out all the broken backlinks on your site, including the:
+
+* **Referring page** - The website domain that contains the broken link.
+* **Priority** - High, medium, or low, indicating the impact the broken link has on SEO based on TODO.
+* **Broken target URL** – The non-existing URL on your site that is being linked to.
+
+## Auto-suggest
+
+![Auto-suggest broken backlinks](../assets/broken-backlinks/auto-suggest.png)
+
+The broken backlinks opportunity also provides an AI-generated suggestions which page on your website the broken URL should redirect to. The suggestions are based on the text that comprise broken URL, and the content of the suggested page.
+
+Selecting the **information icon** provides the AI rationale of what the suggested page is a good fit for the broken URL.
+
+### Edit suggested URL
+
+![Edit suggested URL of broken backlinks](../assets/broken-backlinks/edit-suggested-url.png)
+
+If you disagree with the AI-generated suggestion, you can edit the suggested URL by selecting the **edit icon**. This allows you to manually input the URL you believe is the best fit for the broken link. Sites Optimizer will also list any other URLs on your site it believes may be a good fit for the broken link.  
+
+## Ignore broken backlinks
+
+![Ignore broken backlinks](../assets/broken-backlinks/ignore.png)
+
+You can choose to ignore entires with the broken target URL. Selecting the **ignore icon** removes the broken backlink from the opportunity list. Ignored broken backlinks can be re-engaged from the **Ignored** tab at the top of the opportunity page.
+
+## Auto-optimize
+
+[!BADGE Ultimate]{type=Positive url="../../licensing.md#ultimate" tooltip="Ultimate"}
+
+![Auto-optimize broken backlinks](../assets/missing-alt-text/auto-optimize.png)
+
+Sites Optimizer Ultimate adds the ability to deploy auto-optimization for broken backlinks. Selecting the **Auto-optimize** button automatically updates the AEM Site's redirect rules to map the **broken target URL** to the **suggested URL**. This ensures website visitors and search bots following the broken links on the **referring pages**  are redirected to the correct page on your site, improving SEO and user experience.
+
+### Deploy optimization
+
+![Deploy optimization of broken backlinks](../assets/broken-backlinks/deploy-optimization.png)
+
+Selecting **Deploy optimization** will update the AEM Site's redirect rules to map the **broken target URL** to the **suggested URL**. This ensures website visitors and search bots following the broken links on the **referring pages**  are redirected to the correct page on your site, improving SEO and user experience.
+
+### Request approval
+
+![Request approval of broken backlinks](../assets/broken-backlinks/request-approval.png)
+
+If you are not able to deploy the optimization, you can request approval from your AEM Site's administrator. Selecting **Request approval** will send an email to the AEM Site's administrator with the details of the optimization. The administrator can then approve or reject the optimization from the Sites Optimizer dashboard.
+
+
+
+
+
+
+## Learn how to use this opportunity
+
+For more information on how to use the Missing Alt Text opportunity, see the tutorials below.
+
+<!--CARDS 
+
+* ../tutorials/use-cases/increase-serp.md
+* ../tutorials/walkthroughs/add-site.md
+
+-->
