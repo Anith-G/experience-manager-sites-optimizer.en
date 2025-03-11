@@ -1,9 +1,7 @@
 ---
-title: Missing Image Alt Text Opportunity Documentation
-description: This is the documentation overview.
-badgeSEO: label="SEO" type="Caution" url="../../topics/seo.md" tooltip="SEO"
-badgeAccessibility: label="Accessibility" type="Caution" url="../../topics/accessibility.md" tooltip="SEO"
-
+title: Broken Backlinks Opportunity Documentation
+description: Sites Optimizer broken backlinks opportunity documentation.
+badgeTrafficAcquisition: label="Traffic acquisition" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="Traffic acquisition"
 ---
 
 # Broken backlinks opportunity
@@ -49,7 +47,7 @@ You can choose to ignore entires with the broken target URL. Selecting the **ign
 
 ## Auto-optimize
 
-[!BADGE Ultimate]{type=Positive url="../../licensing.md#ultimate" tooltip="Ultimate"}
+[!BADGE Ultimate]{type=Positive url="../../licensing.md#sites-optimizer-ultimate" tooltip="Ultimate"}
 
 ![Auto-optimize broken backlinks](./assets/broken-backlinks/auto-optimize.png)
 
