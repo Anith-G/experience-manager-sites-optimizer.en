@@ -20,6 +20,9 @@ Sites Optimizer Prime offers auto-identification and of opportunities and auto-s
 
 Sites Optimizer Ultimate offers the same auto-identification and of opportunities and auto-suggestions for optimization as Sites Optimizer Prime, but also includes the ability to automatically deploy the suggestions to your AEM site.
 
+Documentation applicable only to Sites Optimizer Ultimate will be marked as such with the [!BADGE Ultimate]{type=Positive url="../licensing.md#sites-optimizer-ultimate" tooltip="Ultimate"} badge.
+
+
 ## Prime vs. Ultimate
 
 Below is a comparison of the features available in Sites Optimizer Prime and Sites Optimizer Ultimate:
