@@ -52,7 +52,7 @@ Opportunities can be filtered by keywords, tags, or URLs, or by [opportunity typ
 
 ### Opportunity details
 
-![Site Optimizer high impact opportunity](./assets/home/high-impact-opportunity-detail.png){align="center"}
+![Site Optimizer high impact opportunity](./assets/home/high-impact-opportunity-details.png){align="center"}
 
 Each opportunity provides a brief description of the issue, its potential impact on your site, and a link to full details. You can also see its status, indicating whether it has been optimized or is still pending.  
 
