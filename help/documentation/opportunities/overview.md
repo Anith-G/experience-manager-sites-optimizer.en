@@ -20,14 +20,14 @@ Opportunities can be filtered by status using the tabs across the top:
 * **Ignored** - Opportunities that have been ignored. Ignored opportunities can be re-engaged from this view.
 * **Optimized** - Opportunities that have been optimized.
 
-Opportunities can be filtered by keywords, tags, or URLs, or by [opportunity type](../opportunity-types/overview.md) to help you focus on the most critical areas of improvement.
+Opportunities can be filtered by keywords, tags, or URLs, or by [opportunity type](../../opportunity-types/overview.md) to help you focus on the most critical areas of improvement.
 
 ## Opportunities
 
 With a [opportunity status](#opportunity-status) selected, you can view a list of opportunities. The list of opportunities can be furhter filtered by:
 
 * **Search** - Search of opportunities by **keywords, tags or URLs**.
-* **Opportunity type** - Use the **Type** dropdown to filter opportunities by [opportunity type](../opportunity-types/overview.md).
+* **Opportunity type** - Use the **Type** dropdown to filter opportunities by [opportunity type](../../opportunity-types/overview.md).
 
 ### Opportunity details
 
@@ -38,7 +38,7 @@ Each opportunity provides a brief description of the issue, its potential impact
 * **Opportunity title** – A brief description of the issue and its potential impact on your site's performance.
 * **Last updated** – The date the opportunity the opportunity was last updated, by Sites Optimizer with new data.
 * **Issue count** - The number of instances of the issue identified on your site.
-* **Opportunity type(s)** – The [type(s) of the opportunity](../opportunity-types/overview.md), this opportunity is part of -- such as traffic acquisition, engagement, or site health.
+* **Opportunity type(s)** – The [type(s) of the opportunity](../../opportunity-types/overview.md), this opportunity is part of -- such as traffic acquisition, engagement, or site health.
 
 The summary information for each opportunity varies by type and may include details on revenue impact, traffic, user engagement, or security threats.  
 
