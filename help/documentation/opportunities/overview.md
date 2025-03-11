@@ -1,6 +1,7 @@
 ---
 title: Sites Optimizer Opportunities Documentation
 description: Learn about all the available Site Optimizer opportunities and how to use them to improve your site's performance.
+---
 
 # Opportunities documentation
 
