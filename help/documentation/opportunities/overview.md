@@ -98,7 +98,7 @@ Explore all the possible opportunities available in Sites Optimizer:
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./cross-site-scripting.md" target="_blank" rel="referrer" title="Cross-site scripting">Cross-site scripting</a>
                     </p>
-                    <p class="is-size-6">Learn about the cross-site scripting opportunity and how to use it to improve traffic acquisition.</p>
+                    <p class="is-size-6">Learn about the cross-site scripting opportunity and to identify and fix site security vulnerabilities.</p>
                 </div>
                 <a href="./cross-site-scripting.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
