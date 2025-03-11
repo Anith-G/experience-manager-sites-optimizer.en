@@ -16,12 +16,10 @@ user-guide-description: This is a description for the user guide that will be di
   + [Form optimization](/help/opportunity-types/form-optimization.md)
 + Documentation{#documentation}
   + [Overview](/help/documentation/overview.md)
-  + [Dashboard](/help/documentation/dashboard.md)
-  + [Navigation](/help/documentation/navigation.md)
-  + [Etc](/help/documentation/etc.md)
+  + [Home](/help/documentation/home.md)
   + Opportunities{#opportunities}
-    + [Broken back links](/help/documentation/opportunities/broken-back-links.md)
-    + [Missing alt text](/help/documentation/opportunities/missing-alt-text.md)
+    + [Broken back links](/help/documentation/opportunities/broken-backlinks.md)
+  + [Settings](/help/documentation/settings.md)
   + [Licensing](/help/documentation/licensing.md)
 + Tutorials{#tutorials}
   + [Overview](./tutorials/overview.md)

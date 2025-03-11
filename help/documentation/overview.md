@@ -17,20 +17,19 @@ Sites Optimizer provides a set of opportunities to help you optimize your AEM si
 
 <!--CARDS 
 
-* ./opportunities/missing-alt-text.md
-* ./opportunities/broken-back-links.md
-* ./opportunities/etc.md
+* ./opportunities/overview.md
+* ./opportunities/broken-backlinks.md
 
 -->
 
-## UI documentation
+## General documentation
 
 // Something about the general UI documentation here. Making up some examples for now.
 
 <!--CARDS 
 
-* ./ui/dashboard.md
-* ./ui/navigation.md
-* ./ui/etc.md
+* ./documentation/home.md
+* ./documentation/opportunities/overview.md
+* ./documentation/settings.md
 
 -->

@@ -11,14 +11,13 @@ The Sites Optimizer Dashboard provides a high-level overview of your site's perf
 
 The dashboard is divided into three main sections:
 
-## Site selector
+## Domain manager
 
-![Site Optimizer site selector](./assets/home/site-selector.png){align="center"}
+![Site Optimizer domain manager](./assets/home/domain-manager.png){align="center"}
 
 **TODO: LINK TO CLOUD MANAGER DOCS**
 
-The Site Selector section allows you to choose the AEN site you want to assess and optimize. Sites Optimizer provides a list of all the production AEM sites registered in [Cloud Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/edge-delivery-sites/add-edge-delivery-site).
-
+The domain manager context menu  allows you to choose the AEM site, by domain, you want to assess and optimize. Sites Optimizer provides a list of all the production AEM sites registered in [Cloud Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/edge-delivery-sites/add-edge-delivery-site).
 
 ## Navigation
 
