@@ -7,9 +7,9 @@ description: This is the topics overview.
 
 ![Form optimization opportunities](./assets/form-optimization/hero.png){align="center"}
 
-Learn how Sites Optimizer can help you improve your site's search engine optimization (SEO).
+Learn how Sites Optimizer can help with form optimization.
 
-## Opportunities in action
+## Opportunities 
 
 <!-- CARDS
 
@@ -18,14 +18,3 @@ Learn how Sites Optimizer can help you improve your site's search engine optimiz
 
 -->
 
-
-## SEO documentation
-
-Explore aspects of the products that can help you improve your site's SEO.
-
-<!-- 
-
-* ./documentation/opp/missing-alt-text.md
-* ./documentation/opp/broken-back-links.md
-
--->

@@ -7,7 +7,7 @@ description: This is the topics overview.
 
 ![Security posture opportunities](./assets/security-posture/hero.png){align="center"}
 
-Learn how Sites Optimizer can help you improve your site's search engine optimization (SEO).
+Learn how Sites Optimizer can help you improve your site's security posture.
 
 ## Opportunities in action
 
