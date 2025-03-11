@@ -9,6 +9,11 @@ description: This is the documentation overview.
 
 Welcome to the Sites Optimizer documentation. Here you will find information on how to use Sites Optimizer to optimize your AEM sites.
 
+
+## Site Optimizer basics
+
+Explore the AEM Sites Optimizer documentation to learn about key UI components, including the Home dashboard, Settings configurations, and the Opportunities list for optimization insights.
+
 <!-- CARDS 
 
 * ./home.md
