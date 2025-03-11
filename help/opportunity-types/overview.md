@@ -14,20 +14,25 @@ These opportunity types are categorized into:
 <!-- CARDS 
 
 * ./traffic-acquisition.md
+   {title = Traffic acquisition}
 * ./engagement.md
+   { title = Engagement }
 * ./site-health.md
+   { title = Site health }
 * ./security-posture.md
+   { title = Security posture }
 * ./form-optimization.md
+   { title = Form optimization }
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Optimize traffic acquisition with Sites Optimizer">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Traffic acquisition">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./traffic-acquisition.md" title="Optimize traffic acquisition with Sites Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="assets/traffic-acquisition/hero.png" alt="Optimize traffic acquisition with Sites Optimizer"
+                    <a href="./traffic-acquisition.md" title="Traffic acquisition" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="assets/traffic-acquisition/hero.png" alt="Traffic acquisition"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -35,7 +40,7 @@ These opportunity types are categorized into:
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./traffic-acquisition.md" target="_blank" rel="referrer" title="Optimize traffic acquisition with Sites Optimizer">Optimize traffic acquisition with Sites Optimizer</a>
+                        <a href="./traffic-acquisition.md" target="_blank" rel="referrer" title="Traffic acquisition">Traffic acquisition</a>
                     </p>
                     <p class="is-size-6">This is the topics overview.</p>
                 </div>
