@@ -7,9 +7,9 @@ description: Learn about the key opportunity types in Sites Optimizer and how th
 
 ![Opportunities types](./assets/overview/hero.png){align="center"}
 
-Experience Manager Sites Optimizer identifies opportunities to optimize your website. Opportunities organized by type, where each type represents a specific area of improvement. 
+AEM Sites Optimizer provides valuable insights and recommendations to help you improve your website's performance, usability, and security. These insights are grouped into key opportunity areas: Engagement, Traffic Acquisition, Security Posture, Site Health, and Form Optimization. Each category highlights specific ways to enhance your site, whether by increasing visitor interaction, improving discoverability, strengthening security, maintaining site stability, or optimizing form performance.
 
-These opportunity types are categorized into:
+Leveraging these opportunities improves user experience, attract the right audience, and keep your site secure and reliable. Enhancing engagement and traffic acquisition drives interaction and visibility, while a strong security posture and site health ensure trust and stability. Optimizing forms can also boost conversions. Explore the links below to see opportunities organized by category and discover ways to improve your site.
 
 <!-- CARDS 
 
