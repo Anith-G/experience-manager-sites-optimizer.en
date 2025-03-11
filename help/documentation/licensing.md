@@ -8,11 +8,10 @@ description: Experience Manager Sites Optimizer settings documentation.
 Experience Manager Sites Optimizer is licensed as a separate product from Adobe Experience Manager Sites. 
 
 The licensing model for Sites Optimizer is comprised of two tiers:
-- [Sites Optimizer licensing](#sites-optimizer-licensing)
-  - [Sites Optimizer Prime](#sites-optimizer-prime)
-  - [Sites Optimizer Ultimate](#sites-optimizer-ultimate)
-  - [Prime vs. Ultimate](#prime-vs-ultimate)
 
+- Sites Optimizer Prime
+- Sites Optimizer Ultimate
+  
 ## Sites Optimizer Prime
 
 Sites Optimizer Prime offers auto-identification and of opportunities and auto-suggestions for optimization.

@@ -47,7 +47,7 @@ You can choose to ignore entires with the broken target URL. Selecting the **ign
 
 ## Auto-optimize
 
-[!BADGE Ultimate]{type=Positive url="../../licensing.md#sites-optimizer-ultimate" tooltip="Ultimate"}
+[!BADGE Ultimate]{type=Positive url="../licensing.md#sites-optimizer-ultimate" tooltip="Ultimate"}
 
 ![Auto-optimize broken backlinks](./assets/broken-backlinks/auto-optimize.png)
 
