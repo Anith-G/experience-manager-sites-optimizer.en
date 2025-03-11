@@ -1,6 +1,6 @@
 ---
 title: Optimize Site Health with Sites Optimizer
-description: This is the topics overview.
+description: Learn how to improve your site's health with Sites Optimizer.
 ---
 
 # Site health opportunities

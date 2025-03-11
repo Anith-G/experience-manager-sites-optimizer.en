@@ -1,6 +1,6 @@
 ---
 title: Optimize traffic acquisition with Sites Optimizer
-description: This is the topics overview.
+description: Learn how to increase traffic acquisition with Sites Optimizer.
 ---
 
 # Traffic acquisition opportunities

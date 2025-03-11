@@ -42,7 +42,7 @@ Leveraging these opportunities improves user experience, attract the right audie
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./traffic-acquisition.md" target="_blank" rel="referrer" title="Traffic acquisition">Traffic acquisition</a>
                     </p>
-                    <p class="is-size-6">This is the topics overview.</p>
+                    <p class="is-size-6">Learn how to increase traffic acquisition with Sites Optimizer.</p>
                 </div>
                 <a href="./traffic-acquisition.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
@@ -65,7 +65,7 @@ Leveraging these opportunities improves user experience, attract the right audie
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./engagement.md" target="_blank" rel="referrer" title="Optimize Engagement with Sites Optimizer">Optimize Engagement with Sites Optimizer</a>
                     </p>
-                    <p class="is-size-6">This is the topics overview.</p>
+                    <p class="is-size-6">Learn how to improve engagement with Sites Optimizer.</p>
                 </div>
                 <a href="./engagement.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
@@ -88,7 +88,7 @@ Leveraging these opportunities improves user experience, attract the right audie
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./site-health.md" target="_blank" rel="referrer" title="Optimize Site Health with Sites Optimizer">Optimize Site Health with Sites Optimizer</a>
                     </p>
-                    <p class="is-size-6">This is the topics overview.</p>
+                    <p class="is-size-6">Learn how to improve your site's health with Sites Optimizer.</p>
                 </div>
                 <a href="./site-health.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
@@ -111,7 +111,7 @@ Leveraging these opportunities improves user experience, attract the right audie
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./security-posture.md" target="_blank" rel="referrer" title="Optimize Security Posture with Sites Optimizer">Optimize Security Posture with Sites Optimizer</a>
                     </p>
-                    <p class="is-size-6">This is the topics overview.</p>
+                    <p class="is-size-6">Learn how to improve your site's security with Sites Optimizer.</p>
                 </div>
                 <a href="./security-posture.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
@@ -134,7 +134,7 @@ Leveraging these opportunities improves user experience, attract the right audie
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./form-optimization.md" target="_blank" rel="referrer" title="Form Optimization with Sites Optimizer">Form Optimization with Sites Optimizer</a>
                     </p>
-                    <p class="is-size-6">This is the topics overview.</p>
+                    <p class="is-size-6">Learn about Form Optimization with Sites Optimizer.</p>
                 </div>
                 <a href="./form-optimization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>

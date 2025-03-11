@@ -1,6 +1,6 @@
 ---
 title: Optimize Security Posture with Sites Optimizer
-description: This is the topics overview.
+description: Learn how to improve your site's security with Sites Optimizer.
 ---
 
 # Security posture opportunities

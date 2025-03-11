@@ -1,6 +1,6 @@
 ---
 title: Form Optimization with Sites Optimizer
-description: This is the topics overview.
+description: Learn about Form Optimization with Sites Optimizer.
 ---
 
 # Form optimization opportunities

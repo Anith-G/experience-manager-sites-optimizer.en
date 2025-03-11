@@ -1,6 +1,6 @@
 ---
 title: Optimize Engagement with Sites Optimizer
-description: This is the topics overview.
+description: Learn how to improve engagement with Sites Optimizer.
 ---
 
 # Engagement opportunities
