@@ -11,7 +11,7 @@ Site Optimizer settings is the central hub for configuring your Sites Optimizer 
 
 ## Google Search Console
 
-![Site Optimizer settings for Google Search Console](./assets/home/google-search-console.png){align="center"}
+![Site Optimizer settings for Google Search Console](./assets/settings/google-search-console.png){align="center"}
 
 The Google Search Console settings connector in AEM Sites Optimizer enables the analysis of key SEO metrics like search rankings, click-through rates, and Core Web Vitals. By keeping Google Search Console connected, you can leverage JSON analysis to uncover optimization opportunities and improve site performance. 
 
