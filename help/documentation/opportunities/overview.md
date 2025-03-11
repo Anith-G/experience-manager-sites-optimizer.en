@@ -7,6 +7,7 @@ description: Learn about all the available Site Optimizer opportunities and how 
 
 ![Sites Optimizer opportunities](./assets/overview/hero.png){align="center"}
 
+
 Opportunities are available via the **Opportunities** menu option in [Site Optimizer's persistent navigation](../home.md#navigation).
 
 ## Opportunity status
