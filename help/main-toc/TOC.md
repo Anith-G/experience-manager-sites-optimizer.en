@@ -22,3 +22,5 @@ user-guide-description: This is a description for the user guide that will be di
     + [Broken back links](/help/documentation/opportunities/broken-backlinks.md)
   + [Settings](/help/documentation/settings.md)
   + [Licensing](/help/documentation/licensing.md)
++ Tutorials{#tutorials}
+  + [Overview](/help/tutorials/overview.md)
