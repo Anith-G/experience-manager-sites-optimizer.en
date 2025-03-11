@@ -11,6 +11,8 @@ AEM Sites Optimizer provides valuable insights and recommendations to help you i
 
 Leveraging these opportunities improves user experience, attract the right audience, and keep your site secure and reliable. Enhancing engagement and traffic acquisition drives interaction and visibility, while a strong security posture and site health ensure trust and stability. Optimizing forms can also boost conversions. Explore the links below to see opportunities organized by category and discover ways to improve your site.
 
+## Opportunities types
+
 <!-- CARDS 
 
 * ./traffic-acquisition.md
