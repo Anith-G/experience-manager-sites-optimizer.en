@@ -21,10 +21,3 @@ user-guide-description: This is a description for the user guide that will be di
     + [Broken back links](/help/documentation/opportunities/broken-backlinks.md)
   + [Settings](/help/documentation/settings.md)
   + [Licensing](/help/documentation/licensing.md)
-+ Tutorials{#tutorials}
-  + [Overview](./tutorials/overview.md)
-  + Walkthroughs{#walkthroughs}
-    + [Get started with Sites Optimizer](/help/tutorials/walkthroughs/get-started.md)
-    + [Add a new site to Sites Optimizer](/help/tutorials/walkthroughs/add-site.md)
-  + Use cases{#use-cases}
-    + [Maximize back-link equity](/help/tutorials/use-cases/maximize-back-link-equity.md)

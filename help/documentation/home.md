@@ -7,7 +7,7 @@ description: Experience Manager Sites Optimizer home documentation.
 
 The Sites Optimizer Dashboard provides a high-level overview of your site's performance and opportunities for improvement.
 
-![Sites Optimizer Dashboard](./assets/dashboard/hero.png) // Image should be 16x9 aspect ratio so we can use in ExL Cards.
+![Sites Optimizer Dashboard](./assets/home/hero.png) // Image should be 16x9 aspect ratio so we can use in ExL Cards.
 
 The dashboard is divided into three main sections:
 
@@ -21,7 +21,7 @@ The domain manager context menu  allows you to choose the AEM site, by domain, y
 
 ## Navigation
 
-![Site Optimizer navigation](./assets/dashboard/navigation.png){align="center"}
+![Site Optimizer navigation](./assets/home/navigation.png){align="center"}
 
 The Navigation section provides quick, persistent access to key areas of the Sites Optimizer from anywhere in Sites Optimizer, including:
 
@@ -31,7 +31,7 @@ The Navigation section provides quick, persistent access to key areas of the Sit
 
 ## Site summary
 
-![Site Optimizer site summary](./assets/dashboard/site-summary.png){align="center"}
+![Site Optimizer site summary](./assets/home/site-summary.png){align="center"}
 
 The Site Summary section provides a snapshot of your site's performance, how Sites Optimizer has improved your site over tie, and opportunities for improvement. Key metrics include:
 
@@ -44,7 +44,7 @@ The Site Summary section provides a snapshot of your site's performance, how Sit
 
 ## High impact opportunities
 
-![Site Optimizer high impact opportunities](./assets/dashboard/high-impact-opportunities.png){align="center"}
+![Site Optimizer high impact opportunities](./assets/home/high-impact-opportunities.png){align="center"}
 
 The High Impact Opportunities section highlights the most significant pending opportunities for improvement, based on their potential impact on your site's performance. These opportunities are organized by type, making it easy to prioritize your optimization efforts.
 
@@ -52,7 +52,7 @@ Opportunities can be filtered by keywords, tags, or URLs, or by [opportunity typ
 
 ### Opportunity details
 
-![Site Optimizer high impact opportunity](./assets/dashboard/high-impact-opportunity-detail.png){align="center"}
+![Site Optimizer high impact opportunity](./assets/home/high-impact-opportunity-detail.png){align="center"}
 
 Each opportunity provides a brief description of the issue, its potential impact on your site, and a link to full details. You can also see its status, indicating whether it has been optimized or is still pending.  
 
