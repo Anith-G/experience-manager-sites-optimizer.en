@@ -1,6 +1,6 @@
 ---
 title: Broken Backlinks Opportunity Documentation
-description: Sites Optimizer broken backlinks opportunity documentation.
+description: Learn about the broken backlinks opportunity and how to use it to improve traffic acquisition.
 badgeTrafficAcquisition: label="Traffic acquisition" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="Traffic acquisition"
 ---
 
@@ -12,8 +12,8 @@ The broken backlinks opportunity identifies links from other websites to your si
 
 The broken backlinks opportunity displays a summary at the top of the page, including a synopsis of the problem and its impact on your site and business.
 
-* **Projected traffic list** – The estimated traffic loss due to broken backlinks.
-* **Projected traffic value** - The estimated value of the lost traffic.
+* **Projected traffic lost** – The estimated traffic loss due to broken backlinks.
+* **Projected traffic value** – The estimated value of the lost traffic.
 
 ## Auto-identify
 
@@ -21,8 +21,8 @@ The broken backlinks opportunity displays a summary at the top of the page, incl
 
 The broken backlinks opportunity lists out all the broken backlinks on your site, including the:
 
-* **Referring page** - The website domain that contains the broken link.
-* **Priority** - High, medium, or low, indicating the impact the broken link has on SEO based on TODO.
+* **Referring page** – The website domain that contains the broken link.
+* **Priority** – High, medium, or low, indicating the impact the broken link has on SEO based on TODO.
 * **Broken target URL** – The non-existing URL on your site that is being linked to.
 
 ## Auto-suggest
@@ -39,7 +39,7 @@ Selecting the **information icon** provides the AI rationale of what the suggest
 
 If you disagree with the AI-generated suggestion, you can edit the suggested URL by selecting the **edit icon**. This allows you to manually input the URL you believe is the best fit for the broken link. Sites Optimizer will also list any other URLs on your site it believes may be a good fit for the broken link.  
 
-## Ignore broken backlinks
+### Ignore broken backlinks
 
 ![Ignore broken backlinks](./assets/broken-backlinks/ignore.png)
 

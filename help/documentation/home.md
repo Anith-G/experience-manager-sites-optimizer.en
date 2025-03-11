@@ -1,17 +1,15 @@
 ---
-title: Sites Optimizer documentation
-description: Experience Manager Sites Optimizer home documentation.
+title: Sites Optimizer Home
+description: Learn about the basics of Sites Optimizer and how to navigate it.
 ---
 
 # Sites Optimizer home
 
+![Sites Optimizer home](./assets/home/hero.png) 
+
 The Sites Optimizer Dashboard provides a high-level overview of your site's performance and opportunities for improvement.
 
-![Sites Optimizer Dashboard](./assets/home/hero.png) // Image should be 16x9 aspect ratio so we can use in ExL Cards.
-
-The dashboard is divided into three main sections:
-
-## Domain manager
+## Domain manager   
 
 ![Site Optimizer domain manager](./assets/home/domain-manager.png){align="center"}
 

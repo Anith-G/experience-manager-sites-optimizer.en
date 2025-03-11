@@ -1,6 +1,6 @@
 ---
-title: Sites Optimizer settings
-description: Experience Manager Sites Optimizer settings documentation.
+title: Sites Optimizer Settings
+description: Learn how to configure Sites Optimizer settings and integrate with other tools.
 ---
 
 # Sites Optimizer settings

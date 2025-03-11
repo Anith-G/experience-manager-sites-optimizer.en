@@ -1,6 +1,6 @@
 ---
-title: Sites Optimizer settings
-description: Experience Manager Sites Optimizer settings documentation.
+title: Sites Optimizer Licensing
+description: Learn about Sites Optimizer Prime and Ultimate licensing and the features available in each tier.
 ---
 
 # Sites Optimizer licensing
