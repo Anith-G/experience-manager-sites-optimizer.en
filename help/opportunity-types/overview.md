@@ -16,7 +16,7 @@ Leveraging these opportunities improves user experience, attract the right audie
 <!-- CARDS 
 
 * ./traffic-acquisition.md
-   {title = Traffic acquisition}
+   { title = Traffic acquisition }
 * ./engagement.md
    { title = Engagement }
 * ./site-health.md
@@ -52,12 +52,12 @@ Leveraging these opportunities improves user experience, attract the right audie
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Optimize Engagement with Sites Optimizer">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Engagement">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./engagement.md" title="Optimize Engagement with Sites Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="assets/engagement/hero.png" alt="Optimize Engagement with Sites Optimizer"
+                    <a href="./engagement.md" title="Engagement" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="assets/engagement/hero.png" alt="Engagement"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -65,7 +65,7 @@ Leveraging these opportunities improves user experience, attract the right audie
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./engagement.md" target="_blank" rel="referrer" title="Optimize Engagement with Sites Optimizer">Optimize Engagement with Sites Optimizer</a>
+                        <a href="./engagement.md" target="_blank" rel="referrer" title="Engagement">Engagement</a>
                     </p>
                     <p class="is-size-6">Learn how to improve engagement with Sites Optimizer.</p>
                 </div>
@@ -75,12 +75,12 @@ Leveraging these opportunities improves user experience, attract the right audie
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Optimize Site Health with Sites Optimizer">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Site health">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./site-health.md" title="Optimize Site Health with Sites Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="assets/site-health/hero.png" alt="Optimize Site Health with Sites Optimizer"
+                    <a href="./site-health.md" title="Site health" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="assets/site-health/hero.png" alt="Site health"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -88,7 +88,7 @@ Leveraging these opportunities improves user experience, attract the right audie
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./site-health.md" target="_blank" rel="referrer" title="Optimize Site Health with Sites Optimizer">Optimize Site Health with Sites Optimizer</a>
+                        <a href="./site-health.md" target="_blank" rel="referrer" title="Site health">Site health</a>
                     </p>
                     <p class="is-size-6">Learn how to improve your site's health with Sites Optimizer.</p>
                 </div>
@@ -98,12 +98,12 @@ Leveraging these opportunities improves user experience, attract the right audie
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Optimize Security Posture with Sites Optimizer">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Security posture">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./security-posture.md" title="Optimize Security Posture with Sites Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="assets/security-posture/hero.png" alt="Optimize Security Posture with Sites Optimizer"
+                    <a href="./security-posture.md" title="Security posture" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="assets/security-posture/hero.png" alt="Security posture"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -111,7 +111,7 @@ Leveraging these opportunities improves user experience, attract the right audie
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./security-posture.md" target="_blank" rel="referrer" title="Optimize Security Posture with Sites Optimizer">Optimize Security Posture with Sites Optimizer</a>
+                        <a href="./security-posture.md" target="_blank" rel="referrer" title="Security posture">Security posture</a>
                     </p>
                     <p class="is-size-6">Learn how to improve your site's security with Sites Optimizer.</p>
                 </div>
@@ -121,12 +121,12 @@ Leveraging these opportunities improves user experience, attract the right audie
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Form Optimization with Sites Optimizer">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Form optimization">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./form-optimization.md" title="Form Optimization with Sites Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="assets/form-optimization/hero.png" alt="Form Optimization with Sites Optimizer"
+                    <a href="./form-optimization.md" title="Form optimization" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="assets/form-optimization/hero.png" alt="Form optimization"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -134,7 +134,7 @@ Leveraging these opportunities improves user experience, attract the right audie
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./form-optimization.md" target="_blank" rel="referrer" title="Form Optimization with Sites Optimizer">Form Optimization with Sites Optimizer</a>
+                        <a href="./form-optimization.md" target="_blank" rel="referrer" title="Form optimization">Form optimization</a>
                     </p>
                     <p class="is-size-6">Learn about Form Optimization with Sites Optimizer.</p>
                 </div>
