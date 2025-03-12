@@ -21,6 +21,7 @@ user-guide-description: This is a description for the user guide that will be di
     + [Overview](/help/documentation/opportunities/overview.md)
     + [Broken back links](/help/documentation/opportunities/broken-backlinks.md)
     + [Cross-site scripting](/help/documentation/opportunities/cross-site-scripting.md)
+    + [Sitemap issues](/help/documentation/opportunities/sitemap-issues.md)
   + [Settings](/help/documentation/settings.md)
   + [Licensing](/help/documentation/licensing.md)
 + Tutorials{#tutorials}
