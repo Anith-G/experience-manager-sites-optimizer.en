@@ -20,12 +20,12 @@ Traffic acquisition is crucial because it brings potential customers to your web
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Broken Backlinks Opportunity Documentation">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Broken backlinks">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="../documentation/opportunities/broken-backlinks.md" title="Broken Backlinks Opportunity Documentation" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../documentation/opportunities/assets/broken-backlinks/hero.png" alt="Broken Backlinks Opportunity Documentation"
+                    <a href="../documentation/opportunities/broken-backlinks.md" title="Broken backlinks" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../documentation/opportunities/assets/broken-backlinks/hero.png" alt="Broken backlinks"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -33,7 +33,7 @@ Traffic acquisition is crucial because it brings potential customers to your web
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/broken-backlinks.md" target="_blank" rel="referrer" title="Broken Backlinks Opportunity Documentation">Broken backlinks</a>
+                        <a href="../documentation/opportunities/broken-backlinks.md" target="_blank" rel="referrer" title="Broken backlinks">Broken backlinks</a>
                     </p>
                     <p class="is-size-6">Learn how to fix broken backlinks on your site increasing SEO and site traffic.</p>
                 </div>
