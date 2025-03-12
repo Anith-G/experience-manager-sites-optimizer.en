@@ -45,9 +45,7 @@ If you disagree with the AI-generated suggestion, you can edit the suggested URL
 
 You can choose to ignore entires with the broken target URL. Selecting the **ignore icon** removes the broken backlink from the opportunity list. Ignored broken backlinks can be re-engaged from the **Ignored** tab at the top of the opportunity page.
 
-## Auto-optimize
-
-[!BADGE Ultimate]{type=Positive url="../licensing.md#sites-optimizer-ultimate" tooltip="Ultimate"}
+## Auto-optimize [!BADGE Ultimate]{type=Positive url="../licensing.md#sites-optimizer-ultimate" tooltip="Ultimate"}
 
 ![Auto-optimize broken backlinks](./assets/broken-backlinks/auto-optimize.png)
 
