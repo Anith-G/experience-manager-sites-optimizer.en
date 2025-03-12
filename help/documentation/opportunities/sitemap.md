@@ -4,7 +4,7 @@ description: Learn about the sitemap opportunity and how to use it to improve tr
 badgeTrafficAcquisition: label="Traffic acquisition" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="Traffic acquisition"
 ---
 
-# Sitemap opportunity
+# Sitemap Opportunity {#sitemap-opportunity}
 
 ![Sitemap opportunity](./assets/sitemap/main.png)
 
@@ -15,7 +15,7 @@ A summary is displayed at the top of the page, including a synopsis of the probl
 * **Projected traffic lost** – The estimated traffic loss due to broken backlinks.
 * **Projected traffic value** – The estimated value of the lost traffic.
 
-## Auto-identify
+## Auto-identify {#auto-identify}
 
 ![Auto-identify sitemap issues](./assets/sitemap/identify.png) 
 
@@ -27,7 +27,7 @@ In the lower part of the page, you will see following categories:
 
 You can switch between **Client errors** and **Redirects** for a full list of issues.
 
-## Auto-optimize
+## Auto-optimize {#auto-optimize}
 
 [!BADGE Ultimate]{type=Positive url="../licensing.md#sites-optimizer-ultimate" tooltip="Ultimate"}
 
@@ -35,4 +35,4 @@ You can switch between **Client errors** and **Redirects** for a full list of is
 
 Sites Optimizer Ultimate adds the ability to deploy auto-optimization for faulty sitemaps. <!--- TBD-need more information here. What does the auto-optimization do?-->
 
-Selecting **Deploy optimization** will update the AEM Site's sitemap. If you are not able to deploy the optimization, you can request approval from your AEM Site's administrator. Selecting **Request approval** will send an email to the AEM Site's administrator with the details of the optimization. The administrator can then approve or reject the optimization from the Sites Optimizer dashboard. 
+Selecting **Deploy optimization** will update the AEM Site's sitemap. If you are not able to deploy the optimization, you can request approval from your AEM Site's administrator. Selecting **Request approval** will send an email to the AEM Site's administrator with the details of the optimization. The administrator can then approve or reject the optimization from the Sites Optimizer dashboard.
