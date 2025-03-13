@@ -61,14 +61,18 @@ You can choose to ignore entires with the broken target URL. Selecting the **ign
 
 Sites Optimizer Ultimate adds the ability to deploy auto-optimization for broken backlinks. Selecting the **Auto-optimize** button automatically updates the AEM Site's redirect rules to map the **broken target URL** to the **suggested URL**. This ensures website visitors and search bots following the broken links on the **referring pages**  are redirected to the correct page on your site, improving SEO and user experience.
 
-### Deploy optimization
+>[!BEGINTABS]
+
+>[!TAB Deploy optimization]
 
 ![Deploy optimization of broken backlinks](./assets/broken-backlinks/deploy-optimization.png)
 
 Selecting **Deploy optimization** will update the AEM Site's redirect rules to map the **broken target URL** to the **suggested URL**. This ensures website visitors and search bots following the broken links on the **referring pages**  are redirected to the correct page on your site, improving SEO and user experience.
 
-### Request approval
+>[!TAB Request approval]
 
 ![Request approval of broken backlinks](./assets/broken-backlinks/request-approval.png)
 
 If you are not able to deploy the optimization, you can request approval from your AEM Site's administrator. Selecting **Request approval** will send an email to the AEM Site's administrator with the details of the optimization. The administrator can then approve or reject the optimization from the Sites Optimizer dashboard.
+
+>[!ENDTABS]
