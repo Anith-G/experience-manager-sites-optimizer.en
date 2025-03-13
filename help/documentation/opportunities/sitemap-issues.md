@@ -17,8 +17,6 @@ A summary is displayed at the top of the page, including a synopsis of the probl
 
 ## Auto-identify
 
-![Auto-identify sitemap issues](./assets/sitemap-issues/auto-identify.png)  
-
 Sitemap issues can be filtered using the following criteria:  
 
 * **Sitemap with issues** – The analyzed sitemap URL containing potential issues.  
