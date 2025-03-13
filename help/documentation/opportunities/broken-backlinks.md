@@ -31,19 +31,29 @@ The broken backlinks opportunity lists out all the broken backlinks on your site
 
 The broken backlinks opportunity also provides an AI-generated suggestions which page on your website the broken URL should redirect to. The suggestions are based on the text that comprise broken URL, and the content of the suggested page.
 
-Selecting the **information icon** provides the AI rationale of what the suggested page is a good fit for the broken URL.
 
-### Edit suggested URL
+>[!BEGINTABS]
+
+>[!TAB AI rationale]
+
+![AI rationale on autosuggestion of broken backlinks](./assets/broken-backlinks/auto-suggest-ai-rationale.png)
+
+Select the **information** icon to view the AI rationale for the suggested URL. The rationale explains why the AI believes the suggested URL is the best fit for the broken link. This can help you understand the AI's decision-making process and make an informed decision on whether to accept or reject the suggestion.
+
+>[!TAB Edit suggested URL]
 
 ![Edit suggested URL of broken backlinks](./assets/broken-backlinks/edit-target-url.png)
 
 If you disagree with the AI-generated suggestion, you can edit the suggested URL by selecting the **edit icon**. This allows you to manually input the URL you believe is the best fit for the broken link. Sites Optimizer will also list any other URLs on your site it believes may be a good fit for the broken link.  
 
-### Ignore broken backlinks
+>[!TAB Ignore broken backlinks]
 
 ![Ignore broken backlinks](./assets/broken-backlinks/ignore.png)
 
 You can choose to ignore entires with the broken target URL. Selecting the **ignore icon** removes the broken backlink from the opportunity list. Ignored broken backlinks can be re-engaged from the **Ignored** tab at the top of the opportunity page.
+
+>[!ENDTABS]
+
 
 ## Auto-optimize [!BADGE Ultimate]{type=Positive url="../licensing.md#sites-optimizer-ultimate" tooltip="Ultimate"}
 
