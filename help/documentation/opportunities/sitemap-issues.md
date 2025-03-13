@@ -26,9 +26,42 @@ Sitemap issues can be filtered using the following criteria:
   * **Client errors** – Entries that do not return a `200 Success` response.  
   * **Redirects** – Faulty or misconfigured redirects.  
 
+>[!BEGINTABS]
+
+>[!TAB Client errors]
+
+![Auto-identify sitemap client errors](./assets/sitemap-issues/auto-identify-client-errors.png)  
+
+ If URLs in your sitemap return these, search engines may assume your sitemap is outdated or that pages were mistakenly removed. Client indicate that the request from the client (browser or crawler) was invalid. Common ones include:
+
+* **404 Not Found** – The requested page doesn't exist.
+* **403 Forbidden** – The server denies access to the requested page.
+* **410 Gone** – The page was intentionally removed and won't return.
+* **401 Unauthorized** – Authentication is required but not provided.
+
+These errors can harm SEO, especially if important pages return **404 or 410**, as search engines may de-index them.
+
 Each issue is displayed in a table, with the **Page** column identifying the affected sitemap entry:  
 
 * **Page** – The URL of the sitemap entry with an issue.  
+
+>[!TAB Redirects]
+
+![Auto-identify sitemap client errors](./assets/sitemap-issues/auto-identify-redirects.png)  
+
+Sitemaps should only include final destination URLs, not ones that redirect. Redirects are meant to guide users and crawlers to the correct location but can cause problems if misconfigured:
+
+* **302 Found (Temporary Redirect)** – Can cause SEO issues if mistakenly used instead of a **301**.
+* **307 Temporary Redirect** – Similar to 302 but preserves the HTTP method.
+* **Redirect Loops** – When a page redirects back to itself or creates an infinite loop.
+* **Broken Redirects** – When a redirect leads to a non-existent or 4xx page.
+
+Each issue is displayed in a table, with the **Page** column identifying the affected sitemap entry:  
+
+* **Page** – The URL of the sitemap entry with an issue.  
+
+>[!ENDTABS]
+
 
 ## Auto-suggest  
 
