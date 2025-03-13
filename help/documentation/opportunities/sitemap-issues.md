@@ -43,6 +43,6 @@ Suggestions typically include an updated site path to correct the sitemap entry.
 
 ![Auto-optimize Sitemap issues](./assets/sitemap-issues/auto-optimize.png)
 
-Sites Optimizer Ultimate adds the ability to deploy auto-optimization for faulty sitemaps. <!--- TBD-need more information here. What does the auto-optimization do?-->
+Sites Optimizer Ultimate adds the ability to deploy auto-optimization for faulty sitemaps. <!--- TBD-need more in-depth and opportunity specific information here. What does the auto-optimization do?-->
 
 Selecting **Deploy optimization** will update the AEM Site's sitemap. If you are not able to deploy the optimization, you can request approval from your AEM Site's administrator. Selecting **Request approval** will send an email to the AEM Site's administrator with the details of the optimization. The administrator can then approve or reject the optimization from the Sites Optimizer dashboard.
