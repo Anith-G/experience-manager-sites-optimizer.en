@@ -40,13 +40,13 @@ The broken backlinks opportunity also provides an AI-generated suggestions which
 
 Select the **information** icon to view the AI rationale for the suggested URL. The rationale explains why the AI believes the suggested URL is the best fit for the broken link. This can help you understand the AI's decision-making process and make an informed decision on whether to accept or reject the suggestion.
 
->[!TAB Edit suggested URL]
+>[!TAB Edit target URL]
 
 ![Edit suggested URL of broken backlinks](./assets/broken-backlinks/edit-target-url.png)
 
 If you disagree with the AI-generated suggestion, you can edit the suggested URL by selecting the **edit icon**. This allows you to manually input the URL you believe is the best fit for the broken link. Sites Optimizer will also list any other URLs on your site it believes may be a good fit for the broken link.  
 
->[!TAB Ignore broken backlinks]
+>[!TAB Ignore entries]
 
 ![Ignore broken backlinks](./assets/broken-backlinks/ignore.png)
 
