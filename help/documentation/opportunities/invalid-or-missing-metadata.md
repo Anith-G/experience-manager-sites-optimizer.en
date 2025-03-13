@@ -6,59 +6,57 @@ badgeTrafficAcquisition: label="Traffic acquisition" type="Caution" url="../../o
 
 # Invalid or missing metadata
 
-![Invalid or missing metadata opportunity](./assets/broken-backlinks/hero.png)
+![Invalid or missing metadata opportunity](./assets/missing-or-invalid-metadata/hero.png)
 
-The broken backlinks opportunity identifies links from other websites to your site that lead to a 404 error. Since search engines use backlinks to determine search relevance, broken links can negatively impact your site's SEO and discoverability. These issues can arise from factors such as URL changes or the removal of the linked page.
+The invalid or missing metadata opportunity identifies missing or faulty metadata on your web pages. Fixing metadata issues boosts SEO by improving content visibility,search rankings, and user engagement. These issues can arise from factors like missing or invalid tags, descriptions that are too long or too short and so on.
 
-The broken backlinks opportunity displays a summary at the top of the page, including a synopsis of the problem and its impact on your site and business.
+The invalid or missing metadata opportunity displays a summary at the top of the page, including a synopsis of the problem and its impact on your site and business.
 
-* **Projected traffic lost** – The estimated traffic loss due to broken backlinks.
+* **Projected traffic lost** – The estimated traffic loss due to faulty metadata.
 * **Projected traffic value** – The estimated value of the lost traffic.
 
 ## Auto-identify
 
-![Auto-identify invalid or missing metadata](./assets/broken-backlinks/auto-identify.png) 
+![Auto-identify invalid or missing metadata](./assets/missing-or-invalid-metadata/auto-identify.png)
 
-The broken backlinks opportunity lists out all the broken backlinks on your site, including the:
+The invalid or missing metadata opportunity lists out all the faulty metadata on your pages, and includes the following:
 
-* **Referring page** – The website domain that contains the broken link.
-* **Priority** – High, medium, or low, indicating the impact the broken link has on SEO based on TODO.
-* **Broken target URL** – The non-existing URL on your site that is being linked to.
+* **Page** – The page that contains the invalid or missing metadata.
+* **Issue** – Indicates the type of issue impacting the metadata tag. These can range from missing titles to duplicate H1's and so on.
+* **Value** – The current metadata tag value that needs to be changed.
+* **Suggestion** - An AI-generated suggestion for suitable tag updates. See the section below for more details.
 
 ## Auto-suggest
 
-![Auto-suggest invalid or missing metadata](./assets/broken-backlinks/auto-suggest.png)
+![Auto-suggest invalid or missing metadata](./assets/missing-or-invalid-metadata/auto-suggest.png)
 
-The broken backlinks opportunity also provides an AI-generated suggestions which page on your website the broken URL should redirect to. The suggestions are based on the text that comprise broken URL, and the content of the suggested page.
+The invalid or missing metadata opportunity also provides AI-generated suggestions on how to change or update the metadata tags. These suggestions are based on the initial tag that comprised the faulty metadata, and the content of the suggested update.
 
-Selecting the **information icon** provides the AI rationale of what the suggested page is a good fit for the broken URL.
+Selecting the **information icon** provides the AI rationale for the suggested update.
 
-### Edit suggested URL
+### Edit suggested metadata value
 
-![Edit suggested URL of broken backlinks](./assets/broken-backlinks/edit-target-url.png)
+![Edit suggested invalid or missing metadata](./assets/missing-or-invalid-metadata/edit-suggested-metadata-value.png)
 
-If you disagree with the AI-generated suggestion, you can edit the suggested URL by selecting the **edit icon**. This allows you to manually input the URL you believe is the best fit for the broken link. Sites Optimizer will also list any other URLs on your site it believes may be a good fit for the broken link.  
+If you disagree with the AI-generated suggestion, you can edit the suggested metadata value by selecting the **edit icon**. This allows you to manually input the value you believe is the best fit for the metadata. The edit window contains the following:
 
-### Ignore broken backlinks
+* **Path** – The path to the page that contains the metadata (or lack of).
+* **Issue description** – Indicates the type of issue impacting the metadata tag and a short description.
+* **Suggestion for tag value** – The AI-generated suggestion on how to change or update the metadata tag. For example how many characters should the tag update contain and so on.
+* **Original tag content** - The original tag value.
+* **Target tag value** - Edit this field and manually add the desired tag value. When you select **Save** this is the value that will be applied to the proposed update.
+* **Suggestion** - The AI-generated suggestion on how to change the value.
+* **Save** - Saves and applies the value in the **Target tag value** field.
 
-![Ignore broken backlinks](./assets/broken-backlinks/ignore.png)
+### Ignore suggested metadata changes
 
-You can choose to ignore entires with the broken target URL. Selecting the **ignore icon** removes the broken backlink from the opportunity list. Ignored broken backlinks can be re-engaged from the **Ignored** tab at the top of the opportunity page.
+You can choose to ignore entries with the targeted broken or invalid metadata. Selecting the **ignore icon** removes the entry from the opportunity list. Ignored entries can be re-engaged from the **Ignored** tab at the top of the opportunity page.
 
 ## Auto-optimize [!BADGE Ultimate]{type=Positive url="../licensing.md#sites-optimizer-ultimate" tooltip="Ultimate"}
 
-![Auto-optimize broken backlinks](./assets/broken-backlinks/auto-optimize.png)
+![Auto-optimize suggested invalid or missing metadata](./assets/missing-or-invalid-metadata/auto-optimize.png)
 
-Sites Optimizer Ultimate adds the ability to deploy auto-optimization for broken backlinks. Selecting the **Auto-optimize** button automatically updates the AEM Site's redirect rules to map the **broken target URL** to the **suggested URL**. This ensures website visitors and search bots following the broken links on the **referring pages**  are redirected to the correct page on your site, improving SEO and user experience.
+Sites Optimizer Ultimate adds the ability to deploy auto-optimization for the issues found by the metadata opportunity. <!--- TBD-need more in-depth and opportunity specific information here. What does the auto-optimization do?-->
 
-### Deploy optimization
+Selecting **Deploy optimization** will deploy the array of fixes for the targeted web pages. If you are not able to deploy the optimization, you can request approval from your AEM Site's administrator. Selecting **Request approval** will send an email to the AEM Site's administrator with the details of the optimization. The administrator can then approve or reject the optimization from the Sites Optimizer dashboard.
 
-![Deploy optimization of broken backlinks](./assets/broken-backlinks/deploy-optimization.png)
-
-Selecting **Deploy optimization** will update the AEM Site's redirect rules to map the **broken target URL** to the **suggested URL**. This ensures website visitors and search bots following the broken links on the **referring pages**  are redirected to the correct page on your site, improving SEO and user experience.
-
-### Request approval
-
-![Request approval of broken backlinks](./assets/broken-backlinks/request-approval.png)
-
-If you are not able to deploy the optimization, you can request approval from your AEM Site's administrator. Selecting **Request approval** will send an email to the AEM Site's administrator with the details of the optimization. The administrator can then approve or reject the optimization from the Sites Optimizer dashboard.
