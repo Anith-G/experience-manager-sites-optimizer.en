@@ -1,10 +1,10 @@
 ---
 title: Missing or invalid structured data Documentation
-description: Learn about the missing or invalid structured data and how to use it to improve traffic acquisition.
+description: Learn about the missing or invalid structured data opportunity and how to use it to improve traffic acquisition.
 badgeTrafficAcquisition: label="Traffic acquisition" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="Traffic acquisition"
 ---
 
-# Missing or invalid structured data
+# Missing or invalid structured data opportunity
 
 ![Missing or invalid structured data opportunity](./assets/missing-or-invalid-structured-data/hero.png)
 
