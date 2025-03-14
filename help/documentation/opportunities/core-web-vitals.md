@@ -32,7 +32,7 @@ Furthermore, these issues are also grouped by the standard performance metrics o
 
 ![Auto-suggest core web vitals opportunity](./assets/core-web-vitals/auto-suggest.png)
 
-The core web vitals opportunity provides AI-generated fix suggestions. When you click the suggestions button, a new window appears that contains the performance metrics **LCP**, **INP** and **CLS** as categories. You can switch between these categories to see a list of specific issues. 
+The core web vitals opportunity provides AI-generated fix suggestions. When you click the suggestions button, a new window appears that contains the performance metrics **LCP**, **INP** and **CLS** as categories. You can switch between these categories to see a list of specific issues.
 
 Each category can contain several issues so make sure to scroll down to see the full list of issues and recommendations.  Additionally, there are two performance gages for both mobile and desktop for each metric.
 
