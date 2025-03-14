@@ -32,9 +32,13 @@ The invalid or missing metadata opportunity lists out all the faulty metadata on
 
 The invalid or missing metadata opportunity also provides AI-generated suggestions on how to change or update the metadata tags. These suggestions are based on the initial tag that comprised the faulty metadata, and the content of the suggested update.
 
+>[!BEGINTABS]
+
+>[!TAB AI rationale]
+
 Selecting the **information icon** provides the AI rationale for the suggested update.
 
-### Edit suggested metadata value
+>[!TAB  Edit suggested metadata value]
 
 ![Edit suggested invalid or missing metadata](./assets/missing-or-invalid-metadata/edit-suggested-metadata-value.png)
 
@@ -48,9 +52,11 @@ If you disagree with the AI-generated suggestion, you can edit the suggested met
 * **Suggestion** - The AI-generated suggestion on how to change the value.
 * **Save** - Saves and applies the value in the **Target tag value** field.
 
-### Ignore suggested metadata changes
+>[!TAB Ignore entries]
 
 You can choose to ignore entries with the targeted broken or invalid metadata. Selecting the **ignore icon** removes the entry from the opportunity list. Ignored entries can be re-engaged from the **Ignored** tab at the top of the opportunity page.
+
+>[!ENDTABS]
 
 ## Auto-optimize [!BADGE Ultimate]{type=Positive url="../licensing.md#sites-optimizer-ultimate" tooltip="Ultimate"}
 
