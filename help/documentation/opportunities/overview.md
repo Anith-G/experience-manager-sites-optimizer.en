@@ -54,8 +54,20 @@ Explore all the possible opportunities available in Sites Optimizer:
  
 * ./broken-backlinks.md
   {title=Broken backlinks}
+  {image=../../assets/common/card-arrows.png}
+* ./core-web-vitals.md
+  {title=Core web vitals}
+  {image=../../assets/common/card-performance.png}
 * ./cross-site-scripting.md
   {title=Cross-site scripting}
+  {image=../../assets/common/card-code.png}
+* ./invalid-or-missing-metadata.md
+  {title=Invalid or missing metadata}
+  {image=../../assets/common/card-code.png}
+* ./sitemap-issues.md
+  {title=Sitemap issues}
+  {image=../../assets/common/card-relationship.png}
+
 
 --->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -83,12 +95,35 @@ Explore all the possible opportunities available in Sites Optimizer:
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Core web vitals">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./core-web-vitals.md" title="Core web vitals" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../../assets/common/card-performance.png" alt="Core web vitals"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./core-web-vitals.md" target="_blank" rel="referrer" title="Core web vitals">Core web vitals</a>
+                    </p>
+                    <p class="is-size-6">Learn about the core web vitals opportunity and how to use it to improve traffic acquisition.</p>
+                </div>
+                <a href="./core-web-vitals.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Cross-site scripting">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./cross-site-scripting.md" title="Cross-site scripting" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="assets/cross-site-scripting/hero.png" alt="Cross-site scripting"
+                        <img class="is-bordered-r-small" src="../../assets/common/card-code.png" alt="Cross-site scripting"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -106,5 +141,54 @@ Explore all the possible opportunities available in Sites Optimizer:
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Invalid or missing metadata">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./invalid-or-missing-metadata.md" title="Invalid or missing metadata" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="assets/missing-or-invalid-metadata/hero.png" alt="Invalid or missing metadata"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./invalid-or-missing-metadata.md" target="_blank" rel="referrer" title="Invalid or missing metadata">Invalid or missing metadata</a>
+                    </p>
+                    <p class="is-size-6">Learn about the invalid or missing metadata opportunity and how to use it to improve traffic acquisition.</p>
+                </div>
+                <a href="./invalid-or-missing-metadata.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Sitemap issues">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./sitemap-issues.md" title="Sitemap issues" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../../assets/common/card-relationship.png" alt="Sitemap issues"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./sitemap-issues.md" target="_blank" rel="referrer" title="Sitemap issues">Sitemap issues</a>
+                    </p>
+                    <p class="is-size-6">Learn about the sitemap issues opportunity and how to use it to improve traffic acquisition.</p>
+                </div>
+                <a href="./sitemap-issues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
+                </a>
+            </div>
+        </div>
+    </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+![]()
+
