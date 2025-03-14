@@ -77,7 +77,7 @@ Explore all the possible opportunities available in Sites Optimizer:
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./broken-backlinks.md" title="Broken backlinks" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="assets/broken-backlinks/hero.png" alt="Broken backlinks"
+                        <img class="is-bordered-r-small" src="../../assets/common/card-arrows.png" alt="Broken backlinks"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -146,7 +146,7 @@ Explore all the possible opportunities available in Sites Optimizer:
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./invalid-or-missing-metadata.md" title="Invalid or missing metadata" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="assets/missing-or-invalid-metadata/hero.png" alt="Invalid or missing metadata"
+                        <img class="is-bordered-r-small" src="../../assets/common/card-code.png" alt="Invalid or missing metadata"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
