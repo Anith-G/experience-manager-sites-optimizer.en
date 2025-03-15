@@ -27,6 +27,7 @@ user-guide-description: This is a description for the user guide that will be di
     + [Missing alt text](/help/documentation/opportunities/missing-alt-text.md)
     + [Broken internal links](/help/documentation/opportunities/broken-internal-links.md)
     + [Sitemap issues](/help/documentation/opportunities/sitemap-issues.md)
+    + [Website Vulnerabilities](/help/documentation/opportunities/website-vulnerabilities.md)
   + [Settings](/help/documentation/settings.md)
   + [Licensing](/help/documentation/licensing.md)
 + Tutorials{#tutorials}
