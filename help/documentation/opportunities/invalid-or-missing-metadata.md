@@ -4,7 +4,7 @@ description: Learn about the invalid or missing metadata opportunity and how to 
 badgeTrafficAcquisition: label="Traffic acquisition" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="Traffic acquisition"
 ---
 
-# Invalid or missing metadata
+# Invalid or missing metadata opportunity
 
 ![Invalid or missing metadata opportunity](./assets/missing-or-invalid-metadata/hero.png)
 

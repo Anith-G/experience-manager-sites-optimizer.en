@@ -25,6 +25,7 @@ user-guide-description: This is a description for the user guide that will be di
     + [Invalid or missing metadata](/help/documentation/opportunities/invalid-or-missing-metadata.md)
     + [Missing or invalid structured data](/help/documentation/opportunities/missing-invalid-structured-data.md)
     + [Missing alt text](/help/documentation/opportunities/missing-alt-text.md)
+    + [Broken internal links](/help/documentation/opportunities/broken-internal-links.md)
     + [Sitemap issues](/help/documentation/opportunities/sitemap-issues.md)
   + [Settings](/help/documentation/settings.md)
   + [Licensing](/help/documentation/licensing.md)
