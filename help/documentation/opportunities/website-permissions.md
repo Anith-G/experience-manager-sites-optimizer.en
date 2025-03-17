@@ -6,13 +6,13 @@ badgeSecurityPosture: label="Security posture" type="Caution" url="../../opportu
 
 # Website permissions opportunity
 
-![Website permissions opportunity](./assets/website-permissions/hero.png)
+![Website permissions opportunity](./assets/website-permissions/hero.png){align="center"}
 
 The website permissions opportunity optimizes website permissions, crucial for maintaining a secure and manageable AEM environment. This opportunity allows you to refine access controls by removing overly broad permissions—such as `jcr:all` on generic paths like `/` or `/content` — and aligning user access with the principle of least privilege. By streamlining permissions and eliminating redundancies, you can reduce security risks, improve maintainability, and prevent future misconfigurations. Take action by reviewing and updating permissions in the AEM Security Permissions console or your code repository, ensuring service users have only the access they truly need.
 
 ## Auto-identify
 
-![Auto-identify website permissions](./assets/website-permissions/auto-identify.png)
+![Auto-identify website permissions](./assets/website-permissions/auto-identify.png){align="center"}
 
 The **Website Permissions opportunity** feature automatically identifies and lists 
 
@@ -23,13 +23,13 @@ The **Website Permissions opportunity** feature automatically identifies and lis
 
 ## Auto-suggest
 
-![Auto-suggest website vulnerabilities](./assets/website-permissions/auto-suggest.png)
+![Auto-suggest website vulnerabilities](./assets/website-permissions/auto-suggest.png){align="center"}
 
 Auto-suggest provides AI-generated recommendations in the **Suggested permissions** field, allowing you to replace any flagged permissions with secure alternatives.
 
 ## Auto-optimize [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
-![Auto-optimize website permissions](./assets/website-permissions/auto-optimize.png)
+![Auto-optimize website permissions](./assets/website-permissions/auto-optimize.png){align="center"}
 
 Sites Optimizer Ultimate adds the ability to deploy auto-optimization for the vulnerabilities found.
 

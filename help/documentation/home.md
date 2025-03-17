@@ -5,7 +5,7 @@ description: Learn about the basics of Sites Optimizer and how to navigate it.
 
 # Sites Optimizer home
 
-![Sites Optimizer home](./assets/home/hero.png)
+![Sites Optimizer home](./assets/home/hero.png){align="center"}
 
 The Sites Optimizer Dashboard provides a high-level overview of your site's performance and opportunities for improvement.
 

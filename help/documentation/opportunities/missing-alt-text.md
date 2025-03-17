@@ -1,12 +1,12 @@
 ---
-title: Missing alt text Documentation
+title: Missing ALT Text Documentation
 description: Learn about the missing alt text opportunity and how to use it to improve engagement on your website.
 badgeEngagement: label="Engagement" type="Caution" url="../../opportunity-types/engagement.md" tooltip="Engagement"
 ---
 
 # Missing alt text opportunity
 
-![Missing alt text opportunity](./assets/missing-alt-text/hero.png)
+![Missing alt text opportunity](./assets/missing-alt-text/hero.png){align="center"}
 
 The missing alt text opportunity identifies images without descriptive alt text on your website. Search engines cannot properly index or understand images without alt text, significantly reducing your content's discoverability and potential search ranking, ultimately limiting your audience reach. Additionally, not having alt text for images excludes people with visual impairments who rely on screen readers to understand web content, effectively creating barriers to information access.
 
@@ -19,7 +19,7 @@ There is also an additional field that displays the rationale, insight and sugge
 
 ## Auto-identify
 
-![Auto-identify missing alt text](./assets/missing-alt-text/auto-identify.png)
+![Auto-identify missing alt text](./assets/missing-alt-text/auto-identify.png){align="center"}
 
 The missing alt text opportunity lists out all the images on your website that are missing alt text. This section contains the following categories:
 
@@ -29,7 +29,7 @@ The missing alt text opportunity lists out all the images on your website that a
 
 ## Auto-suggest
 
-![Auto-suggest missing alt text](./assets/missing-alt-text/auto-suggest.png)
+![Auto-suggest missing alt text](./assets/missing-alt-text/auto-suggest.png){align="center"}
 
 Auto-suggest provides AI-generated suggestions for the alt text of the images. The AI-generated suggestions are designed to help you quickly add alt text to images without having to manually analyze each image. 
 
@@ -37,7 +37,7 @@ Auto-suggest provides AI-generated suggestions for the alt text of the images. T
 
 >[!TAB Edit missing alt text]
 
-![Edit missing alt text](./assets/missing-alt-text/edit-alt-text-value.png)
+![Edit missing alt text](./assets/missing-alt-text/edit-alt-text-value.png){align="center"}
 
 If you disagree with the AI-generated suggestion, you can edit the suggested alt text by selecting the **edit icon**. This allows you to manually adjust the text you believe is the best fit for the image. The edit window contains the following:
 
@@ -54,7 +54,7 @@ You can choose to ignore entries in the opportunity list. Selecting the **ignore
 ## Auto-optimize [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 
-![Auto-optimize missing alt text](./assets/missing-alt-text/auto-optimize.png)
+![Auto-optimize missing alt text](./assets/missing-alt-text/auto-optimize.png){align="center"}
 
 Sites Optimizer Ultimate adds the ability to deploy auto-optimization for the issues found by the missing alt text opportunity. <!--- TBD-need more in-depth and opportunity specific information here. What does the auto-optimization do?-->
 

@@ -5,7 +5,7 @@ description: Learn how to configure Sites Optimizer settings and integrate with 
 
 # Sites Optimizer settings
 
-![Sites Optimizer settings](./assets/settings/hero.png) 
+![Sites Optimizer settings](./assets/settings/hero.png){align="center"} 
 
 Site Optimizer settings is the central hub for configuring your Sites Optimizer experience. 
 

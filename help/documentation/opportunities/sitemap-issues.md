@@ -6,7 +6,7 @@ badgeTrafficAcquisition: label="Traffic acquisition" type="Caution" url="../../o
 
 # Sitemap issues opportunity
 
-![Sitemap issues opportunity](./assets/sitemap-issues/hero.png)
+![Sitemap issues opportunity](./assets/sitemap-issues/hero.png){align="center"}
 
 A complete and accurate sitemap helps search engines efficiently crawl and index website pages, ensuring better visibility in the search results. The sitemap opportunity identifies potential issues with your sitemap. Fixing these issue can greatly improve search engine indexation and content discoverability on your site.
 
@@ -28,7 +28,7 @@ Sitemap issues can be filtered using the following criteria:
 
 >[!TAB Client errors]
 
-![Auto-identify sitemap client errors](./assets/sitemap-issues/auto-identify-client-errors.png)  
+![Auto-identify sitemap client errors](./assets/sitemap-issues/auto-identify-client-errors.png){align="center"}  
 
  If URLs in your sitemap return these, search engines may assume your sitemap is outdated or that pages were mistakenly removed. Client indicate that the request from the client (browser or crawler) was invalid. Common ones include:
 
@@ -45,7 +45,7 @@ Each issue is displayed in a table, with the **Page** column identifying the aff
 
 >[!TAB Redirects]
 
-![Auto-identify sitemap client errors](./assets/sitemap-issues/auto-identify-redirects.png)  
+![Auto-identify sitemap client errors](./assets/sitemap-issues/auto-identify-redirects.png){align="center"}  
 
 Sitemaps should only include final destination URLs, not ones that redirect. Redirects are meant to guide users and crawlers to the correct location but can cause problems if misconfigured:
 
@@ -72,7 +72,7 @@ Suggestions typically include an updated site path to correct the sitemap entry.
 ## Auto-optimize [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 
-![Auto-optimize Sitemap issues](./assets/sitemap-issues/auto-optimize.png)
+![Auto-optimize Sitemap issues](./assets/sitemap-issues/auto-optimize.png){align="center"}
 
 Sites Optimizer Ultimate adds the ability to deploy auto-optimizations of sitemaps. 
 

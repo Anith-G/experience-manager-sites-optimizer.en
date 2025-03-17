@@ -6,7 +6,7 @@ badgeSecurityPosture: label="Security posture" type="Caution" url="../../opportu
 
 # Website vulnerabilities opportunity
 
-![Website vulnerabilities opportunity](./assets/website-vulnerabilities/hero.png)
+![Website vulnerabilities opportunity](./assets/website-vulnerabilities/hero.png){align="center"}
 
 The website vulnerabilities opportunity identifies security vulnerabilities in the 3rd party libraries used by your application code. These vulnerabilities could be exploited by a malicious attacker, increasing the risk and decreasing the security posture of your website.
 
@@ -17,7 +17,7 @@ The website vulnerabilities opportunity displays a summary at the top of the pag
 
 ## Auto-identify
 
-![Auto-identify website vulnerabilities](./assets/website-vulnerabilities/auto-identify.png)
+![Auto-identify website vulnerabilities](./assets/website-vulnerabilities/auto-identify.png){align="center"}
 
 The **Website Vulnerabilities Opportunity** feature automatically identifies and lists vulnerabilities found in third-party libraries used by your application code. It provides the following details:  
 
@@ -29,7 +29,7 @@ The **Website Vulnerabilities Opportunity** feature automatically identifies and
 
 ## Auto-suggest
 
-![Auto-suggest website vulnerabilities](./assets/website-vulnerabilities/auto-suggest.png)
+![Auto-suggest website vulnerabilities](./assets/website-vulnerabilities/auto-suggest.png){align="center"}
 
 Auto-suggest provides AI-generated suggestions for the **Recommended version** of vulnerable library you should upgrade to. Each entry has a **Score** indicating its overall severity, helping prioritize the most critical vulnerabilities.
 
@@ -48,7 +48,7 @@ You can choose to ignore entries from the vulnerability list. Selecting the **ig
 
 ## Auto-optimize [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
-![Auto-optimize website vulnerabilities](./assets/website-vulnerabilities/auto-optimize.png)
+![Auto-optimize website vulnerabilities](./assets/website-vulnerabilities/auto-optimize.png){align="center"}
 
 Sites Optimizer Ultimate adds the ability to deploy auto-optimization for the vulnerabilities found.
 

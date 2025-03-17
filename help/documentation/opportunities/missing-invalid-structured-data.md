@@ -6,7 +6,7 @@ badgeTrafficAcquisition: label="Traffic acquisition" type="Caution" url="../../o
 
 # Missing or invalid structured data opportunity
 
-![Missing or invalid structured data opportunity](./assets/missing-or-invalid-structured-data/hero.png)
+![Missing or invalid structured data opportunity](./assets/missing-or-invalid-structured-data/hero.png){align="center"}
 
 The missing or invalid structured data opportunity identifies missing or faulty structured data in the Json-LD standardized format. Structured data is a way to organize, describe and label important information on your website. It helps search engines interpret the content of your pages and it leads to improved visibility in search results. Better search results can lead to more users engaging with your website.
 
@@ -17,7 +17,7 @@ The missing or invalid structured data opportunity displays a summary at the top
 
 ## Auto-identify
 
-![Auto-identify missing or invalid structured data](./assets/missing-or-invalid-structured-data/auto-identify.png)
+![Auto-identify missing or invalid structured data](./assets/missing-or-invalid-structured-data/auto-identify.png){align="center"}
 
 The missing or invalid structured data opportunity lists out all the issues detected on your pages, and contains the following categories:
 
@@ -27,7 +27,7 @@ The missing or invalid structured data opportunity lists out all the issues dete
 
 ## Auto-suggest
 
-![Auto-suggest missing or invalid structured data](./assets/missing-or-invalid-structured-data/auto-suggest.png)
+![Auto-suggest missing or invalid structured data](./assets/missing-or-invalid-structured-data/auto-suggest.png){align="center"}
 
 The invalid or missing structured data opportunity also provides AI-generated suggestions on how to change or update the structured data. When you click the suggestions button, a new window appears that contains the following:
 
@@ -38,7 +38,7 @@ The invalid or missing structured data opportunity also provides AI-generated su
 ## Auto-optimize [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 
-![Auto-optimize suggested missing or invalid structured data](./assets/missing-or-invalid-structured-data/auto-optimize.png)
+![Auto-optimize suggested missing or invalid structured data](./assets/missing-or-invalid-structured-data/auto-optimize.png){align="center"}
 
 Sites Optimizer Ultimate adds the ability to deploy auto-optimization for the issues found by the invalid or missing structured data opportunity. <!--- TBD-need more in-depth and opportunity specific information here. What does the auto-optimization do?-->
 

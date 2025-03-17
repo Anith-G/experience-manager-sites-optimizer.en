@@ -5,7 +5,7 @@ description: Experience Manager Sites Optimizer documentation.
 
 # Sites Optimizer documentation
 
-![Sites Optimizer](./assets/overview/hero.png)
+![Sites Optimizer](./assets/overview/hero.png){align="center"}
 
 Welcome to the Sites Optimizer documentation. Here you will find information on how to use Sites Optimizer to optimize your AEM sites.
 

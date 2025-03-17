@@ -6,7 +6,7 @@ badgeTrafficAcquisition: label="Traffic acquisition" type="Caution" url="../../o
 
 # Invalid or missing metadata opportunity
 
-![Invalid or missing metadata opportunity](./assets/missing-or-invalid-metadata/hero.png)
+![Invalid or missing metadata opportunity](./assets/missing-or-invalid-metadata/hero.png){align="center"}
 
 The invalid or missing metadata opportunity identifies missing or faulty metadata on your web pages. Fixing metadata issues boosts SEO by improving content visibility,search rankings, and user engagement. These issues can arise from factors like missing or invalid tags, descriptions that are too long or too short and so on.
 
@@ -17,7 +17,7 @@ The invalid or missing metadata opportunity displays a summary at the top of the
 
 ## Auto-identify
 
-![Auto-identify invalid or missing metadata](./assets/missing-or-invalid-metadata/auto-identify.png)
+![Auto-identify invalid or missing metadata](./assets/missing-or-invalid-metadata/auto-identify.png){align="center"}
 
 The invalid or missing metadata opportunity lists out all the faulty metadata on your pages, and includes the following:
 
@@ -28,7 +28,7 @@ The invalid or missing metadata opportunity lists out all the faulty metadata on
 
 ## Auto-suggest
 
-![Auto-suggest invalid or missing metadata](./assets/missing-or-invalid-metadata/auto-suggest.png)
+![Auto-suggest invalid or missing metadata](./assets/missing-or-invalid-metadata/auto-suggest.png){align="center"}
 
 The invalid or missing metadata opportunity also provides AI-generated suggestions on how to change or update the metadata tags. These suggestions are based on the initial tag that comprised the faulty metadata, and the content of the suggested update.
 
@@ -40,7 +40,7 @@ Selecting the **information icon** provides the AI rationale for the suggested u
 
 >[!TAB  Edit suggested metadata value]
 
-![Edit suggested invalid or missing metadata](./assets/missing-or-invalid-metadata/edit-suggested-metadata-value.png)
+![Edit suggested invalid or missing metadata](./assets/missing-or-invalid-metadata/edit-suggested-metadata-value.png){align="center"}
 
 If you disagree with the AI-generated suggestion, you can edit the suggested metadata value by selecting the **edit icon**. This allows you to manually input the value you believe is the best fit for the metadata. The edit window contains the following:
 
@@ -61,7 +61,7 @@ You can choose to ignore entries with the targeted broken or invalid metadata. S
 ## Auto-optimize [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 
-![Auto-optimize suggested invalid or missing metadata](./assets/missing-or-invalid-metadata/auto-optimize.png)
+![Auto-optimize suggested invalid or missing metadata](./assets/missing-or-invalid-metadata/auto-optimize.png){align="center"}
 
 Sites Optimizer Ultimate adds the ability to deploy auto-optimization for the issues found by the invalid or missing metadata opportunity. <!--- TBD-need more in-depth and opportunity specific information here. What does the auto-optimization do?-->
 

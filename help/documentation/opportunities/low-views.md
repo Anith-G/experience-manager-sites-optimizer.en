@@ -6,19 +6,19 @@ badgeFormOptimization: label="Form Optimization" type="Caution" url="../../oppor
 
 # Low views opportunity
 
-![Low views opportunity](./assets/low-views/hero.png)
+![Low views opportunity](./assets/low-views/hero.png){align="center"}
 
 The low views opportunity identifies forms on your website that have low view rates. This opportunity helps you understand which forms are not performing well and provides suggestions on how to improve their engagement rates. By optimizing views ofyour forms, you can increase the number of form submissions and improve the overall performance of your website.
 
 ## Auto-identify
 
-![Auto-identify low views](./assets/low-views/auto-identify.png)
+![Auto-identify low views](./assets/low-views/auto-identify.png){align="center"}
 
 Each webpage with a form with low views is listed as its own **Low views** opportunity. A brief summary of the opportunity, and AI-rationale, is displayed at the top of the opportunity page.
 
 ## Auto-suggest
 
-![Auto-suggest low views](./assets/low-views/auto-suggest.png)
+![Auto-suggest low views](./assets/low-views/auto-suggest.png){align="center"}
 
 Auto-suggest provides AI-generated webpage variations that are designed to increase the views of your forms. Each variation is displays the **project conversion rate increase** based on its potential to improve form engagement, helping you prioritize the most effective suggestions.
 
@@ -26,13 +26,13 @@ Auto-suggest provides AI-generated webpage variations that are designed to incre
 
 >[!TAB Control variation]
 
-![Control variations](./assets/low-views/control-variation.png)
+![Control variations](./assets/low-views/control-variation.png){align="center"}
 
 The control variation is the original form that is currently live on your website. This variation is used as a baseline to compare the performance of the suggested variations.
 
 >[!TAB Suggested variations]
 
-![Suggested variations](./assets/low-views/suggested-variations.png)
+![Suggested variations](./assets/low-views/suggested-variations.png){align="center"}
 
 The suggested variations are AI-generated webpage variations that are designed to increase the views of your forms. Each variation displays the **projected conversion rate increase** based on its potential to improve form engagement, helping you prioritize the most effective suggestions.
 
@@ -47,7 +47,7 @@ Click on each variation to preview it on the right side of the screen. In the to
 ## Auto-optimize [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 
-![Auto-optimize low views](./assets/low-views/auto-optimize.png)
+![Auto-optimize low views](./assets/low-views/auto-optimize.png){align="center"}
 
 Sites Optimizer Ultimate adds the ability to deploy auto-optimization for the issues found by the low views opportunity.
 

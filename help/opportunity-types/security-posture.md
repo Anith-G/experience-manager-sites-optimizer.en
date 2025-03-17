@@ -7,7 +7,7 @@ description: Learn how to improve your site's security with Sites Optimizer.
 
 ![Security posture opportunities](./assets/security-posture/hero.png){align="center"}
 
-Learn how Sites Optimizer can help you improve your site's security posture.
+Maintaining a strong security posture in AEM Sites Optimizer is critical for protecting digital experiences and user data. By identifying opportunities for improvement—such as CORS configuration, cross-site scripting, website permissions, and website vulnerabilities—teams can proactively address potential security risks and ensure compliance with best practices. Strengthening security measures not only safeguards sensitive information but also enhances user trust and site reliability. Leveraging AEM Sites Optimizer's insights helps organizations continuously monitor and improve their security stance, reducing risks and maintaining a secure digital environment.
 
 ## Opportunities
 

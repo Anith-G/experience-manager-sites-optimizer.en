@@ -7,7 +7,7 @@ description: Learn how to improve your site's health with Sites Optimizer.
 
 ![Site health opportunities](./assets/site-health/hero.png){align="center"}
 
-Learn how Sites Optimizer can help you improve your site's health.
+Maintaining site health in AEM Sites Optimizer is essential for delivering fast, reliable, and high-performing digital experiences. By identifying opportunities for improvement—such as Core Web Vitals—teams can optimize page speed, interactivity, and visual stability to enhance user experience and search engine rankings. A well-maintained site ensures smoother navigation, better engagement, and improved overall performance. Leveraging AEM Sites Optimizer's insights enables continuous monitoring and refinement, ensuring the site remains efficient and effective over time.
 
 ## Opportunities
 
