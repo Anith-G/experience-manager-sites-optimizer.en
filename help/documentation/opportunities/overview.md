@@ -52,12 +52,19 @@ Explore all the possible opportunities available in Sites Optimizer:
 
 <!-- CARDS
  
+
+* ./accessibility-issues.md
+  {title=Accessibility issues}
+  {image=../../assets/common/card-arrows.png} 
 * ./broken-backlinks.md
   {title=Broken backlinks}
   {image=../../assets/common/card-arrows.png}
 * ./broken-internal-links.md
   {title=Broken internal links}
   {image=../../assets/common/card-link.png}
+* ./cors-configuration.md
+  {title=CORS configuration}
+  {image=../../assets/common/card-code.png}
 * ./core-web-vitals.md
   {title=Core web vitals}
   {image=../../assets/common/card-performance.png}
@@ -76,6 +83,9 @@ Explore all the possible opportunities available in Sites Optimizer:
 * ./sitemap-issues.md
   {title=Sitemap issues}
   {image=../../assets/common/card-relationship.png}
+* ./website-permissions.md
+  {title=Website permissions}
+  {image=../../assets/common/card-people.png}
 * ./website-vulnerabilities.md
   {title=Website vulnerabilities}
   {image=../../assets/common/card-puzzle.png}
@@ -83,6 +93,29 @@ Explore all the possible opportunities available in Sites Optimizer:
 --->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Accessibility issues">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./accessibility-issues.md" title="Accessibility issues" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../../assets/common/card-arrows.png" alt="Accessibility issues"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./accessibility-issues.md" target="_blank" rel="referrer" title="Accessibility issues">Accessibility issues</a>
+                    </p>
+                    <p class="is-size-6">Learn about the accessibility issues opportunity and how to use it to increase the security of on your website.</p>
+                </div>
+                <a href="./accessibility-issues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Broken backlinks">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
@@ -262,6 +295,29 @@ Explore all the possible opportunities available in Sites Optimizer:
                     <p class="is-size-6">Learn about the sitemap issues opportunity and how to use it to improve traffic acquisition.</p>
                 </div>
                 <a href="./sitemap-issues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Website permissions">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./website-permissions.md" title="Website permissions" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../../assets/common/card-people.png" alt="Website permissions"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./website-permissions.md" target="_blank" rel="referrer" title="Website permissions">Website permissions</a>
+                    </p>
+                    <p class="is-size-6">Learn about the website permissions opportunity and how to use it to increase the security of on your website.</p>
+                </div>
+                <a href="./website-permissions.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
                 </a>
             </div>
