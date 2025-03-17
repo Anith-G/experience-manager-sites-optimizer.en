@@ -7,7 +7,11 @@ description: Learn about all the available Site Optimizer opportunities and how 
 
 ![Sites Optimizer opportunities](./assets/overview/hero.png){align="center"}
 
+
+Sites Optimizer is comprised as ever-growing set of opportunities powered by Adobe AI, designed to identify and suggest improvements for your website. Each opportunity offers insights into the potential business value, highlights areas that need attention, and provides actionable recommendations for optimization. Click into each opportunity to explore the identified issues, suggested improvements, and step-by-step guidance on how to implement these changes for enhanced website performance and user experience.
+
 Opportunities are available via the **Opportunities** menu option in [Site Optimizer's persistent navigation](../home.md#navigation).
+
 
 ## Opportunity status
 
