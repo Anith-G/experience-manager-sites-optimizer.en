@@ -29,7 +29,7 @@ The broken backlinks opportunity lists out all the broken backlinks on your site
 
 ![Auto-suggest broken backlinks](./assets/broken-backlinks/auto-suggest.png)
 
-The broken backlinks opportunity also provides an AI-generated suggestions which page on your website the broken URL should redirect to. The suggestions are based on the text that comprise broken URL, and the content of the suggested page.
+The broken backlinks opportunity also provides an AI-generated suggestions on which page on your website the broken URL should redirect to. The suggestions are based on the text that comprises the broken URL, and the content of the suggested page.
 
 
 >[!BEGINTABS]
