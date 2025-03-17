@@ -7,7 +7,6 @@ description: Learn about all the available Site Optimizer opportunities and how 
 
 ![Sites Optimizer opportunities](./assets/overview/hero.png){align="center"}
 
-
 Opportunities are available via the **Opportunities** menu option in [Site Optimizer's persistent navigation](../home.md#navigation).
 
 ## Opportunity status
@@ -51,7 +50,6 @@ To exclude an opportunity from the Sites Optimizer dashboard and reports, click 
 Explore all the possible opportunities available in Sites Optimizer:
 
 <!-- CARDS
- 
 
 * ./accessibility-issues.md
   {title=Accessibility issues}
@@ -372,5 +370,4 @@ Explore all the possible opportunities available in Sites Optimizer:
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-![]()
 
