@@ -12,7 +12,7 @@ The low views opportunity identifies forms on your website that have low view ra
 
 ## Auto-identify
 
-![Auto-identify low conversions](./assets/low-vieconversionsws/auto-identify.png)
+![Auto-identify low conversions](./assets/low-conversions/auto-identify.png)
 
 Each webpage with a form with low views is listed as its own **Low views** opportunity. A brief summary of the opportunity, and AI-rationale, is displayed at the top of the opportunity page.
 
