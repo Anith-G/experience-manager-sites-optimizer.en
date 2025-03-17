@@ -19,9 +19,6 @@ Adobe Experience Manager (AEM) Sites Optimizer is a cloud-based service that ana
 * ./documentation/overview.md
   * {title=Documentation}
   * {description=Explore the Sites Optimizer documentation to learn about all its capabilities.}
-* ./tutorials/overview.md
-  * {title=Tutorials}
-  * {description=Learn how to setup, configure, and use Sites Optimizer.}
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -67,29 +64,6 @@ Adobe Experience Manager (AEM) Sites Optimizer is a cloud-based service that ana
                     <p class="is-size-6">Explore the Sites Optimizer documentation to learn about all its capabilities.</p>
                 </div>
                 <a href="./documentation/overview.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Tutorials">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="./tutorials/overview.md" title="Tutorials" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="tutorials/assets/overview/hero.png" alt="Tutorials"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./tutorials/overview.md" target="_blank" rel="referrer" title="Tutorials">Tutorials</a>
-                    </p>
-                    <p class="is-size-6">Learn how to setup, configure, and use Sites Optimizer.</p>
-                </div>
-                <a href="./tutorials/overview.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
                 </a>
             </div>
