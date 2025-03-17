@@ -19,17 +19,32 @@ The website vulnerabilities opportunity displays a summary at the top of the pag
 
 ![Auto-identify website vulnerabilities](./assets/website-vulnerabilities/auto-identify.png)
 
-The website vulnerabilities opportunity auto-identifies and lists out all the vulnerabilities found in the 3rd party libraries used by your application code. It includes the following:
+The **Website Vulnerabilities Opportunity** feature automatically identifies and lists vulnerabilities found in third-party libraries used by your application code. It provides the following details:  
 
-* **Library** – The 3rd party library that contains the vulnerability. Several vulnerabilities can be found in one library.
-* **Current version** – The current version of the library.
-* **Recommended version** – The recommended version for the library.
-* **Score** - The severity of the vulnerability. This risk is also aggregated in the summary at the beginning of the page.
-* **Vulnerability** - The vulnerability identifier, a short description and a link to the National Vulnerability Database (NVD) for more details. The NVD link can be accessed by clicking directly on the vulnerability identifier or by clicking the link item to the right of the description.
+* **Library** – The third-party library containing the vulnerability. A single library may have multiple vulnerabilities.  
+* **Current Version** – The version of the library currently in use.  
+* **Recommended Version** – The suggested version that resolves the vulnerability.  
+* **Score** – The severity rating of the vulnerability, also summarized at the top of the page.  
+* **Vulnerability** – The vulnerability identifier, a brief description, and a link to the National Vulnerability Database (NVD) for more details. Access the NVD link by clicking the identifier or the link next to the description.  
 
-### Ignore entries
+## Auto-suggest
+
+![Auto-suggest website vulnerabilities](./assets/website-vulnerabilities/auto-suggest.png)
+
+Auto-suggest provides AI-generated suggestions for the **Recommended version** of vulnerable library you should upgrade to. Each entry has a **Score** indicating its overall severity, helping prioritize the most critical vulnerabilities.
+
+>[!BEGINTABS]
+
+>[!TAB Vulnerability details]
+
+Each vulnerability contains a link to the detailed information in the [National Vulnerability Database (NVD)](https://nvd.nist.gov/). Clicking on the vulnerability identifier or the link item to the right of the description will take you to the NVD page for that vulnerability.
+
+>[!TAB Ignore entries]
 
 You can choose to ignore entries from the vulnerability list. Selecting the **ignore icon** removes the entry from the list. Ignored entries can be re-engaged from the **Ignored** tab at the top of the opportunity page.<!---right now it does not seem to be implemented, but the page description mentions this functionality-->
+
+>[!ENDTABS]
+
 
 ## Auto-optimize [!BADGE Ultimate]{type=Positive url="../licensing.md#sites-optimizer-ultimate" tooltip="Ultimate"}
 

@@ -27,20 +27,29 @@ The missing alt text opportunity lists out all the images on your website that a
 * **Image** – The image that is missing the descriptive alt text.
 * **Suggestion** - An AI-generated suggestion for the alt text.
 
-### Edit missing alt text
+## Auto-suggest
+
+![Auto-suggest missing alt text](./assets/missing-alt-text/auto-suggest.png)
+
+Auto-suggest provides AI-generated suggestions for the alt text of the images. The AI-generated suggestions are designed to help you quickly add alt text to images without having to manually analyze each image. 
+
+>[!BEGINTABS]
+
+>[!TAB Edit missing alt text]
 
 ![Edit missing alt text](./assets/missing-alt-text/edit-alt-text-value.png)
 
-If you disagree with the AI-generated suggestion, you can edit the suggested alt text by selecting the **edit icon**. This allows you to manually add the text you believe is the best fit for the image. The edit window contains the following:
+If you disagree with the AI-generated suggestion, you can edit the suggested alt text by selecting the **edit icon**. This allows you to manually adjust the text you believe is the best fit for the image. The edit window contains the following:
 
-* **Page Path** – The path to the page that contains the missing alt text. You can also click the arrow and it will open the targeted page.
-* **Image** – The image that is missing the descriptive alt text.
-* **Target ALT text value** – Edit this field and manually add the desired alt text. Ensure your alt text accurately conveys the image's content and purpose without being overly lengthy. It should also include relevant keywords when appropriate while avoiding keyword stuffing.
-* **Save** - Saves and applies the text in the **Target ALT text value** field to the issue.
+* **Page path** – A read-only field displaying the path to the page where the missing alt text issue occurs. Click the arrow next to the path to open the corresponding page.  
+* **Image** – A read-only preview of the image that requires alt text.  
+* **Target ALT text** – An editable field where you can manually enter a descriptive alt text for the image. Ensure the alt text clearly conveys the image's content and purpose concisely. When relevant, include keywords naturally without overloading them.  
 
-### Ignore suggested changes
+>[!TAB Ignore suggestion]
 
 You can choose to ignore entries in the opportunity list. Selecting the **ignore icon** removes the entry from the list. Ignored entries can be re-engaged from the **Ignored** tab at the top of the opportunity page.
+
+>[!ENDTABS]
 
 ## Auto-optimize [!BADGE Ultimate]{type=Positive url="../licensing.md#sites-optimizer-ultimate" tooltip="Ultimate"}
 
