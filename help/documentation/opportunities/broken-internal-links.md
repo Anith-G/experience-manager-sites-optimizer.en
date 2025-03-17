@@ -32,7 +32,6 @@ The broken internal links opportunity auto-identifies and lists out all the brok
 The broken internal links opportunity provides AI-generated suggestions on how to update the broken links. These suggestions are based on the targeted broken URL and provide a suitable replacement. Selecting the **information icon** provides an AI-generated rationale for the suggested update.
 
 
-
 >[!BEGINTABS]
 
 >[!TAB AI rationale]
@@ -63,3 +62,17 @@ You can choose to ignore entries with the targeted broken URL's. Selecting the *
 Sites Optimizer Ultimate adds the ability to deploy auto-optimization for the broken links found by the opportunity. <!--- TBD-need more in-depth and opportunity specific information here. What does the auto-optimization do?-->
 
 Selecting **Deploy optimization** will deploy the AI-suggested updates for the targeted broken links. If you are not able to deploy the optimization, you can request approval from your AEM Site's administrator. Selecting **Request approval** will send an email to the AEM Site's administrator with the details of the optimization. The administrator can then approve or reject the optimization from the Sites Optimizer dashboard.
+
+
+
+>[!BEGINTABS]
+
+>[!TAB Deploy optimization]
+
+{{auto-optimization-deploy-optimization-slack}}
+
+>[!TAB Request approval]
+
+{{auto-optimization-request-approval}}
+
+>[!ENDTABS]
