@@ -29,6 +29,5 @@ user-guide-description: This is a description for the user guide that will be di
     + [Sitemap issues](/help/documentation/opportunities/sitemap-issues.md)
     + [Website vulnerabilities](/help/documentation/opportunities/website-vulnerabilities.md)
   + [Settings](/help/documentation/settings.md)
-  + [Licensing](/help/documentation/licensing.md)
 + Tutorials{#tutorials}
   + [Overview](/help/tutorials/overview.md)
