@@ -12,9 +12,17 @@ Learn how Sites Optimizer can help with form optimization.
 ## Opportunities 
 
 <!-- CARDS
+ 
+* ../documentation/opportunities/low-views.md
+  {title=Low views}
+  {image=../assets/common/card-arrows.png}
+* ../documentation/opportunities/low-conversions.md
+  {title=Low conversions}
+  {image=../assets/common/card-arrows.png}
 
-* ./tutorial/seo/missing-alt-text.md
-* ./tutorial/seo/broken-back-links.md
-
--->
-
+--->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->

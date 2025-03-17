@@ -11,10 +11,21 @@ Learn how Sites Optimizer can help you improve your site's security posture.
 
 ## Opportunities
 
+
 <!-- CARDS
 
+* ../documentation/opportunities/cors-configuration.md
+  {title=CORS configuration}
+  {image=../assets/common/card-code.png}
 * ../documentation/opportunities/cross-site-scripting.md
-   { title = Cross-site scripting }
+  {title=Cross-site scripting}
+  {image=../assets/common/card-gear.png}
+* ../documentation/opportunities/website-permissions.md  
+  {title=Website permissions}
+  {image=../assets/common/card-people.png}
+* ../documentation/opportunities//website-vulnerabilities.md
+  {title=Website vulnerabilities}
+  {image=../assets/common/card-puzzle.png}
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -24,7 +35,7 @@ Learn how Sites Optimizer can help you improve your site's security posture.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../documentation/opportunities/cross-site-scripting.md" title="Cross-site scripting" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../documentation/opportunities/assets/cross-site-scripting/hero.png" alt="Cross-site scripting"
+                        <img class="is-bordered-r-small" src="../assets/common/card-gear.png" alt="Cross-site scripting"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -42,5 +53,30 @@ Learn how Sites Optimizer can help you improve your site's security posture.
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Website vulnerabilities">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="../documentation/opportunities//website-vulnerabilities.md" title="Website vulnerabilities" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../assets/common/card-puzzle.png" alt="Website vulnerabilities"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="../documentation/opportunities//website-vulnerabilities.md" target="_blank" rel="referrer" title="Website vulnerabilities">Website vulnerabilities</a>
+                    </p>
+                    <p class="is-size-6">Learn about the website vulnerabilities opportunity and how to use it to increase the security of on your website.</p>
+                </div>
+                <a href="../documentation/opportunities//website-vulnerabilities.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
+                </a>
+            </div>
+        </div>
+    </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+

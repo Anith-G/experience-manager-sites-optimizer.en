@@ -106,6 +106,29 @@ Explore all the possible opportunities available in Sites Optimizer:
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Broken internal links">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./broken-internal-links.md" title="Broken internal links" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../../assets/common/card-link.png" alt="Broken internal links"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./broken-internal-links.md" target="_blank" rel="referrer" title="Broken internal links">Broken internal links</a>
+                    </p>
+                    <p class="is-size-6">Learn about the broken links opportunity and how to use it to improve engagement on your website.</p>
+                </div>
+                <a href="./broken-internal-links.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Core web vitals">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
@@ -175,6 +198,52 @@ Explore all the possible opportunities available in Sites Optimizer:
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Missing alt text">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./missing-alt-text.md" title="Missing alt text" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../../assets/common/card-arrows.png" alt="Missing alt text"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./missing-alt-text.md" target="_blank" rel="referrer" title="Missing alt text">Missing alt text</a>
+                    </p>
+                    <p class="is-size-6">Learn about the missing alt text opportunity and how to use it to improve engagement on your website.</p>
+                </div>
+                <a href="./missing-alt-text.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Missing or invalid structured data">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./missing-invalid-structured-data.md" title="Missing or invalid structured data" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../../assets/common/card-bag.png" alt="Missing or invalid structured data"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./missing-invalid-structured-data.md" target="_blank" rel="referrer" title="Missing or invalid structured data">Missing or invalid structured data</a>
+                    </p>
+                    <p class="is-size-6">Learn about the missing or invalid structured data opportunity and how to use it to improve traffic acquisition.</p>
+                </div>
+                <a href="./missing-invalid-structured-data.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Sitemap issues">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
@@ -193,6 +262,29 @@ Explore all the possible opportunities available in Sites Optimizer:
                     <p class="is-size-6">Learn about the sitemap issues opportunity and how to use it to improve traffic acquisition.</p>
                 </div>
                 <a href="./sitemap-issues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Website vulnerabilities">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./website-vulnerabilities.md" title="Website vulnerabilities" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../../assets/common/card-puzzle.png" alt="Website vulnerabilities"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./website-vulnerabilities.md" target="_blank" rel="referrer" title="Website vulnerabilities">Website vulnerabilities</a>
+                    </p>
+                    <p class="is-size-6">Learn about the website vulnerabilities opportunity and how to use it to increase the security of on your website.</p>
+                </div>
+                <a href="./website-vulnerabilities.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
                 </a>
             </div>
