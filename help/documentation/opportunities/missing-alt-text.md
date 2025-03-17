@@ -1,7 +1,7 @@
 ---
 title: Missing alt text Documentation
 description: Learn about the missing alt text opportunity and how to use it to improve engagement on your website.
-badgeTrafficAcquisition: label="Traffic acquisition" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="Traffic acquisition"
+badgeEngagement: label="Engagement" type="Caution" url="../../opportunity-types/engagement.md" tooltip="Engagement"
 ---
 
 # Missing alt text opportunity
@@ -51,7 +51,8 @@ You can choose to ignore entries in the opportunity list. Selecting the **ignore
 
 >[!ENDTABS]
 
-## Auto-optimize [!BADGE Ultimate]{type=Positive url="../licensing.md#sites-optimizer-ultimate" tooltip="Ultimate"}
+## Auto-optimize [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
+
 
 ![Auto-optimize missing alt text](./assets/missing-alt-text/auto-optimize.png)
 

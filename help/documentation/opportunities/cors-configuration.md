@@ -26,7 +26,8 @@ Auto-identify scans your website for CORS misconfigurations and detects URLs tha
 Auto-suggest provides of **Application code files** and their **Lines** to be reviewed that may be setting lax CORS policies.
 
 
-## Auto-optimize [!BADGE Ultimate]{type=Positive url="../licensing.md#sites-optimizer-ultimate" tooltip="Ultimate"}
+## Auto-optimize [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
+
 
 
 >[!BEGINTABS]

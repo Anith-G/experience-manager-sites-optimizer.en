@@ -27,7 +27,8 @@ The broken backlinks opportunity displays a summary at the top of the page, incl
 
 * **Suggested fix** 
 
-## Auto-optimize [!BADGE Ultimate]{type=Positive url="../licensing.md#sites-optimizer-ultimate" tooltip="Ultimate"}
+## Auto-optimize [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
+
 
 
 >[!BEGINTABS]

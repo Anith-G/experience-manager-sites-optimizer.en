@@ -46,9 +46,9 @@ You can choose to ignore entries from the vulnerability list. Selecting the **ig
 >[!ENDTABS]
 
 
-## Auto-optimize [!BADGE Ultimate]{type=Positive url="../licensing.md#sites-optimizer-ultimate" tooltip="Ultimate"}
+## Auto-optimize [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
-![Auto-optimize suggested invalid or missing metadata](./assets/website-vulnerabilities/auto-optimize.png)
+![Auto-optimize website vulnerabilities](./assets/website-vulnerabilities/auto-optimize.png)
 
 Sites Optimizer Ultimate adds the ability to deploy auto-optimization for the vulnerabilities found.
 

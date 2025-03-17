@@ -55,7 +55,8 @@ You can choose to ignore entries with the targeted broken URL's. Selecting the *
 >[!ENDTABS]
 
 
-## Auto-optimize [!BADGE Ultimate]{type=Positive url="../licensing.md#sites-optimizer-ultimate" tooltip="Ultimate"}
+## Auto-optimize [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
+
 
 <!---![Auto-optimize suggested invalid or missing metadata](./assets/broken-internal-links/auto-optimize.png)-->
 
