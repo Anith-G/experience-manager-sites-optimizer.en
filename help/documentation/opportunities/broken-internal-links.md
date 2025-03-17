@@ -1,7 +1,7 @@
 ---
 title: Broken internal links Opportunity Documentation
 description: Learn about the broken links opportunity and how to use it to improve engagement on your website.
-badgeTrafficAcquisition: label="Traffic acquisition" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="Traffic acquisition"
+badgeEngagement: label="Engagement" type="Caution" url="../../opportunity-types/engagement.md" tooltip="Engagement"
 ---
 
 # Invalid or missing metadata opportunity

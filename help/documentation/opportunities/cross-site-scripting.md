@@ -1,7 +1,7 @@
 ---
 title: Cross-site Scripting Opportunity Documentation
 description: Learn about the cross-site scripting opportunity and to identify and fix site security vulnerabilities.
-badgeTrafficAcquisition: label="Security posture" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="Security posture"
+securityPosture: label="Security posture" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="Security posture"
 ---
 
 # Cross-site scripting

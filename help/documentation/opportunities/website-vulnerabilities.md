@@ -1,7 +1,7 @@
 ---
 title: Website Vulnerabilities Opportunity Documentation
 description: Learn about the website vulnerabilities opportunity and how to use it to increase the security of on your website.
-badgeTrafficAcquisition: label="Traffic acquisition" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="Traffic acquisition"
+securityPosture: label="Security posture" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="Security posture"
 ---
 
 # Website vulnerabilities opportunity

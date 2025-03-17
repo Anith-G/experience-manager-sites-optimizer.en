@@ -1,7 +1,7 @@
 ---
 title: Core Web Vitals Opportunity Documentation
 description: Learn about the core web vitals opportunity and how to use it to improve traffic acquisition.
-badgeTrafficAcquisition: label="Traffic acquisition" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="Traffic acquisition"
+badgeSiteHealth: label="Site health" type="Caution" url="../../opportunity-types/site-health.md" tooltip="Site health"
 ---
 
 # Core web vitals opportunity
