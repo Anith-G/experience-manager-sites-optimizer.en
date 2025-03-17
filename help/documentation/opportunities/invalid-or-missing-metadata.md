@@ -4,7 +4,7 @@ description: Learn about the invalid or missing metadata opportunity and how to 
 badgeTrafficAcquisition: label="Traffic acquisition" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="Traffic acquisition"
 ---
 
-# Invalid or missing metadata
+# Invalid or missing metadata opportunity
 
 ![Invalid or missing metadata opportunity](./assets/missing-or-invalid-metadata/hero.png)
 
@@ -65,4 +65,3 @@ You can choose to ignore entries with the targeted broken or invalid metadata. S
 Sites Optimizer Ultimate adds the ability to deploy auto-optimization for the issues found by the metadata opportunity. <!--- TBD-need more in-depth and opportunity specific information here. What does the auto-optimization do?-->
 
 Selecting **Deploy optimization** will deploy the array of fixes for the targeted web pages. If you are not able to deploy the optimization, you can request approval from your AEM Site's administrator. Selecting **Request approval** will send an email to the AEM Site's administrator with the details of the optimization. The administrator can then approve or reject the optimization from the Sites Optimizer dashboard.
-

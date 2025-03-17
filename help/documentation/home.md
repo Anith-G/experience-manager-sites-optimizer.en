@@ -5,11 +5,11 @@ description: Learn about the basics of Sites Optimizer and how to navigate it.
 
 # Sites Optimizer home
 
-![Sites Optimizer home](./assets/home/hero.png) 
+![Sites Optimizer home](./assets/home/hero.png)
 
 The Sites Optimizer Dashboard provides a high-level overview of your site's performance and opportunities for improvement.
 
-## Domain manager   
+## Domain manager
 
 ![Site Optimizer domain manager](./assets/home/domain-manager.png){align="center"}
 
@@ -31,7 +31,7 @@ The Navigation section provides quick, persistent access to key areas of the Sit
 
 ![Site Optimizer site summary](./assets/home/site-summary.png){align="center"}
 
-The Site Summary section provides a snapshot of your site's performance, how Sites Optimizer has improved your site over tie, and opportunities for improvement. Key metrics include:
+The Site Summary section provides a snapshot of your site's performance, how Sites Optimizer has improved your site over time, and opportunities for improvement. Key metrics include:
 
 * **Opportunities optimized** – The number of identified opportunities that have been improved to enhance business performance.  
 * **Opportunities pending** – The number of potential improvements that remain unoptimized, representing areas for business gains.  

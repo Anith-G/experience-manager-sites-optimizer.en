@@ -24,7 +24,7 @@ Opportunities can be filtered by keywords, tags, or URLs, or by [opportunity typ
 
 ## Opportunities
 
-With a [opportunity status](#opportunity-status) selected, you can view a list of opportunities. The list of opportunities can be furhter filtered by:
+With a [opportunity status](#opportunity-status) selected, you can view a list of opportunities. The list of opportunities can be further filtered by:
 
 * **Search** - Search of opportunities by **keywords, tags or URLs**.
 * **Opportunity type** - Use the **Type** dropdown to filter opportunities by [opportunity type](../../opportunity-types/overview.md).
