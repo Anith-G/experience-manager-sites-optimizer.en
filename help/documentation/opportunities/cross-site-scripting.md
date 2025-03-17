@@ -4,7 +4,7 @@ description: Learn about the cross-site scripting opportunity and to identify an
 securityPosture: label="Security posture" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="Security posture"
 ---
 
-# Cross-site scripting
+# Cross-site scripting opportunity
 
 ![Cross-site opportunity](./assets/cross-site-scripting/hero.png)
 
