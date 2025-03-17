@@ -1,7 +1,7 @@
 ---
 title: CORS Configuration Opportunity Documentation
 description: Learn about the CORS configuration opportunity and to identify and fix site security vulnerabilities.
-securityPosture: label="Security posture" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="Security posture"
+badgeSecurityPosture: label="Security posture" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="Security posture"
 ---
 
 # CORS configuration opportunity

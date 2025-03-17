@@ -1,7 +1,7 @@
 ---
 title: Website Permissions Opportunity Documentation
 description: Learn about the website permissions opportunity and how to use it to increase the security of on your website.
-securityPosture: label="Security posture" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="Security posture"
+badgeSecurityPosture: label="Security posture" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="Security posture"
 ---
 
 # Website permissions opportunity
@@ -19,7 +19,7 @@ The **Website Permissions opportunity** feature automatically identifies and lis
 * **User** – The user account with the suspect permission.
 * **Path** – The path in AEM that is affected by the permission.
 * **Permission** – The permission that is suspect.
-* **+Issue** - Indicates the type of issue impacting the permission.
+* **Issue** - Indicates the type of issue impacting the permission.
 
 ## Auto-suggest
 
