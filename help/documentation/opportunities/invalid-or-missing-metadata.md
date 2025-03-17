@@ -63,7 +63,7 @@ You can choose to ignore entries with the targeted broken or invalid metadata. S
 
 ![Auto-optimize suggested invalid or missing metadata](./assets/missing-or-invalid-metadata/auto-optimize.png)
 
-Sites Optimizer Ultimate adds the ability to deploy auto-optimization for the issues found by the metadata opportunity. <!--- TBD-need more in-depth and opportunity specific information here. What does the auto-optimization do?-->
+Sites Optimizer Ultimate adds the ability to deploy auto-optimization for the issues found by the invalid or missing metadata opportunity. <!--- TBD-need more in-depth and opportunity specific information here. What does the auto-optimization do?-->
 
 >[!BEGINTABS]
 

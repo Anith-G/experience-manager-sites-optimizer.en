@@ -60,7 +60,6 @@ Each issue is displayed in a table, with the **Page** column identifying the aff
 
 >[!ENDTABS]
 
-
 ## Auto-suggest  
 
 Each sitemap issue [that meets the filter criteria](#auto-identify), is listed in a table with the following columns:  
@@ -75,7 +74,7 @@ Suggestions typically include an updated site path to correct the sitemap entry.
 
 ![Auto-optimize Sitemap issues](./assets/sitemap-issues/auto-optimize.png)
 
-Sites Optimizer Ultimate adds the ability to deploy auto-optimization for faulty sitemaps. <!--- TBD-need more in-depth and opportunity specific information here. What does the auto-optimization do?-->
+Sites Optimizer Ultimate adds the ability to deploy auto-optimizations of sitemaps. 
 
 >[!BEGINTABS]
 
