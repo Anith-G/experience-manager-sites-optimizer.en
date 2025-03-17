@@ -61,10 +61,6 @@ You can choose to ignore entries with the targeted broken URL's. Selecting the *
 
 Sites Optimizer Ultimate adds the ability to deploy auto-optimization for the broken links found by the opportunity. <!--- TBD-need more in-depth and opportunity specific information here. What does the auto-optimization do?-->
 
-Selecting **Deploy optimization** will deploy the AI-suggested updates for the targeted broken links. If you are not able to deploy the optimization, you can request approval from your AEM Site's administrator. Selecting **Request approval** will send an email to the AEM Site's administrator with the details of the optimization. The administrator can then approve or reject the optimization from the Sites Optimizer dashboard.
-
-
-
 >[!BEGINTABS]
 
 >[!TAB Deploy optimization]

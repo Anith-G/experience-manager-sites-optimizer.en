@@ -29,12 +29,15 @@ The broken backlinks opportunity displays a summary at the top of the page, incl
 
 ## Auto-optimize [!BADGE Ultimate]{type=Positive url="../licensing.md#sites-optimizer-ultimate" tooltip="Ultimate"}
 
-TODO
 
-### Deploy optimization
+>[!BEGINTABS]
 
-TODO
+>[!TAB Deploy optimization]
 
-### Request approval
+{{auto-optimization-deploy-optimization-slack}}
 
-TODO
+>[!TAB Request approval]
+
+{{auto-optimization-request-approval}}
+
+>[!ENDTABS]
