@@ -19,6 +19,7 @@ user-guide-description: This is a description for the user guide that will be di
   + [Home](/help/documentation/home.md)
   + Opportunities{#opportunities}
     + [Overview](/help/documentation/opportunities/overview.md)
+    + [Accessibility issues](/help/documentation/opportunities/accessibility-issues.md)
     + [Broken internal links](/help/documentation/opportunities/broken-internal-links.md)
     + [Broken back links](/help/documentation/opportunities/broken-backlinks.md)
     + [Core web vitals](/help/documentation/opportunities/core-web-vitals.md)
