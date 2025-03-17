@@ -36,19 +36,19 @@ The broken internal links opportunity provides AI-generated suggestions on how t
 
 >[!TAB AI rationale]
 
-<!--[AI rationale of broken internal backlinks](./assets/broken-internal-backlinks/auto-suggest-ai-rationale.png) -->
+<!--[AI rationale of broken internal links](./assets/broken-internal-links/auto-suggest-ai-rationale.png) -->
 
 Select the **information** icon to view the AI rationale for the suggested URL. The rationale explains why the AI believes the suggested URL is the best fit for the broken link. This can help you understand the AI's decision-making process and make an informed decision on whether to accept or reject the suggestion.
 
 >[!TAB Edit target URL]
 
-<!--![Edit suggested URL of broken internal backlinks](./assets/broken-internal-backlinks/edit-target-url.png)-->
+<!--![Edit suggested URL of broken internal links](./assets/broken-internal-links/edit-target-url.png)-->
 
 If you disagree with the AI-generated suggestion, you can edit the suggested link value by selecting the **edit icon**. This allows you to manually input the desired link. The edit window contains the **Broken target path** of the link the **Desired target path** where you can manually edit the link and a field with the Ai-generated suggestion. After you are done editing, click **Save** to update the broken link entry. A yellow dot will appear in the entry field to indicate that the link has been edited.
 
 >[!TAB Ignore entries]
 
-<!--![Ignore broken backlinks](./assets/broken-internal-backlinks/ignore.png)-->
+<!--![Ignore broken links](./assets/broken-internal-links/ignore.png)-->
 
 You can choose to ignore entries with the targeted broken URL's. Selecting the **ignore icon** removes the entry from the opportunity list. Ignored entries can be re-engaged from the **Ignored** tab at the top of the opportunity page.
 
@@ -57,18 +57,20 @@ You can choose to ignore entries with the targeted broken URL's. Selecting the *
 
 ## Auto-optimize [!BADGE Ultimate]{type=Positive url="../licensing.md#sites-optimizer-ultimate" tooltip="Ultimate"}
 
-<!---![Auto-optimize suggested invalid or missing metadata](./assets/broken-internal-backlinks/auto-optimize.png)-->
+<!---![Auto-optimize suggested invalid or missing metadata](./assets/broken-internal-links/auto-optimize.png)-->
 
 Sites Optimizer Ultimate adds the ability to deploy auto-optimization for the broken links found by the opportunity. <!--- TBD-need more in-depth and opportunity specific information here. What does the auto-optimization do?-->
+
 
 >[!BEGINTABS]
 
 >[!TAB Deploy optimization]
 
-{{auto-optimization-deploy-optimization-slack}}
+{{auto-optimize-deploy-optimization-slack}}
 
 >[!TAB Request approval]
 
-{{auto-optimization-request-approval}}
+{{auto-optimize-request-approval}}
 
 >[!ENDTABS]
+

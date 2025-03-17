@@ -55,6 +55,9 @@ Explore all the possible opportunities available in Sites Optimizer:
 * ./broken-backlinks.md
   {title=Broken backlinks}
   {image=../../assets/common/card-arrows.png}
+* ./broken-internal-links.md
+  {title=Broken internal links}
+  {image=../../assets/common/card-link.png}
 * ./core-web-vitals.md
   {title=Core web vitals}
   {image=../../assets/common/card-performance.png}
@@ -64,10 +67,18 @@ Explore all the possible opportunities available in Sites Optimizer:
 * ./invalid-or-missing-metadata.md
   {title=Invalid or missing metadata}
   {image=../../assets/common/card-code.png}
+* ./missing-alt-text.md
+  {title=Missing alt text}
+  {image=../../assets/common/card-arrows.png}
+* ./missing-invalid-structured-data.md
+  {title=Missing or invalid structured data}
+  {image=../../assets/common/card-bag.png}
 * ./sitemap-issues.md
   {title=Sitemap issues}
   {image=../../assets/common/card-relationship.png}
-
+* ./website-vulnerabilities.md
+  {title=Website vulnerabilities}
+  {image=../../assets/common/card-puzzle.png}
 
 --->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->

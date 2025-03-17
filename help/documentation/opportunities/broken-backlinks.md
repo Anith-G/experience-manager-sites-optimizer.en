@@ -73,6 +73,6 @@ Selecting **Deploy optimization** will update the AEM Site's redirect rules to m
 
 ![Request approval of broken backlinks](./assets/broken-backlinks/request-approval.png)
 
-If you are not able to deploy the optimization, you can request approval from your AEM Site's administrator. Selecting **Request approval** will send an email to the AEM Site's administrator with the details of the optimization. The administrator can then approve or reject the optimization from the Sites Optimizer dashboard.
+{{auto-optimize-request-approval}}
 
 >[!ENDTABS]

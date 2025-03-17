@@ -34,10 +34,10 @@ The broken backlinks opportunity displays a summary at the top of the page, incl
 
 >[!TAB Deploy optimization]
 
-{{auto-optimization-deploy-optimization-slack}}
+{{auto-optimize-deploy-optimization-slack}}
 
 >[!TAB Request approval]
 
-{{auto-optimization-request-approval}}
+{{auto-optimize-request-approval}}
 
 >[!ENDTABS]

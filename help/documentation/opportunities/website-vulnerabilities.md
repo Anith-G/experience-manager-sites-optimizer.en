@@ -56,10 +56,10 @@ Sites Optimizer Ultimate adds the ability to deploy auto-optimization for the vu
 
 >[!TAB Deploy optimization]
 
-{{auto-optimization-deploy-optimization-slack}}
+{{auto-optimize-deploy-optimization-slack}}
 
 >[!TAB Request approval]
 
-{{auto-optimization-request-approval}}
+{{auto-optimize-request-approval}}
 
 >[!ENDTABS]
