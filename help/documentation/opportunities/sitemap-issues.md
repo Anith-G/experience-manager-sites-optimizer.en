@@ -30,7 +30,7 @@ Sitemap issues can be filtered using the following criteria:
 
 ![Auto-identify sitemap client errors](./assets/sitemap-issues/auto-identify-client-errors.png){align="center"}  
 
- If URLs in your sitemap return these, search engines may assume your sitemap is outdated or that pages were mistakenly removed. Client indicate that the request from the client (browser or crawler) was invalid. Common ones include:
+ If URLs in your sitemap return these, search engines may assume your sitemap is outdated or that pages were mistakenly removed. Client indicates that the request from the client (browser or crawler) was invalid. Common ones include:
 
 * **404 Not Found** – The requested page doesn't exist.
 * **403 Forbidden** – The server denies access to the requested page.
@@ -62,7 +62,7 @@ Each issue is displayed in a table, with the **Page** column identifying the aff
 
 ## Auto-suggest  
 
-Each sitemap issue [that meets the filter criteria](#auto-identify), is listed in a table with the following columns:  
+Each sitemap issue [that meets the filter criteria](#auto-identify) is listed in a table with the following columns:  
 
 * **Page** – The URL of the sitemap entry with an issue.  
 * **Suggestion** – The recommended fix for the issue.  

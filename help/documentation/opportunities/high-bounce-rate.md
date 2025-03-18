@@ -20,7 +20,7 @@ Each webpage with a form with low views is listed as its own **high bounce rate*
 
 ![Auto-suggest high bounce rate](./assets/high-bounce-rate/auto-suggest.png){align="center"}
 
-Auto-suggest provides AI-generated webpage variations that are designed to increase the views of your forms. Each variation is displays the **project conversion rate increase** based on its potential to improve form engagement, helping you prioritize the most effective suggestions.
+Auto-suggest provides AI-generated webpage variations that are designed to increase the views of your forms. Each variation displays the **project conversion rate increase** based on its potential to improve form engagement, helping you prioritize the most effective suggestions.
 
 >[!BEGINTABS]
 

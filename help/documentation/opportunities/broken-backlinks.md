@@ -12,18 +12,18 @@ The broken backlinks opportunity identifies links from other websites to your si
 
 The broken backlinks opportunity displays a summary at the top of the page, including a synopsis of the problem and its impact on your site and business.
 
-* **Projected traffic lost** – The estimated traffic loss due to broken backlinks.
-* **Projected traffic value** – The estimated value of the lost traffic.
+* **Projected traffic lost** - The estimated traffic loss due to broken backlinks.
+* **Projected traffic value** - The estimated value of the lost traffic.
 
 ## Auto-identify
 
-![Auto-identify broken backlinks](./assets/broken-backlinks/auto-identify.png){align="center"}{align="center"} 
+![Auto-identify broken backlinks](./assets/broken-backlinks/auto-identify.png){align="center"}
 
 The broken backlinks opportunity lists out all the broken backlinks on your site, including the:
 
-* **Referring page** – The website domain that contains the broken link.
-* **Priority** – High, medium, or low, indicating the impact the broken link has on SEO based on TODO.
-* **Broken target URL** – The non-existing URL on your site that is being linked to.
+* **Referring page** - The website domain that contains the broken link.
+* **Priority** - High, medium, or low, indicating the impact the broken link has on SEO based on TODO.
+* **Broken target URL** - The non-existing URL on your site that is being linked to.
 
 ## Auto-suggest
 
@@ -60,7 +60,7 @@ You can choose to ignore entires with the broken target URL. Selecting the **ign
 
 ![Auto-optimize broken backlinks](./assets/broken-backlinks/auto-optimize.png){align="center"}
 
-Sites Optimizer Ultimate adds the ability to deploy auto-optimization for broken backlinks. Selecting the **Auto-optimize** button automatically updates the AEM Site's redirect rules to map the **broken target URL** to the **suggested URL**. This ensures website visitors and search bots following the broken links on the **referring pages**  are redirected to the correct page on your site, improving SEO and user experience.
+Sites Optimizer Ultimate adds the ability to deploy auto-optimization for broken backlinks. Selecting the **Auto-optimize** button automatically updates the AEM Site's redirect rules to map the **broken target URL** to the **suggested URL**. This ensures website visitors and search bots following the broken links on the **referring pages** are redirected to the correct page on your site, improving SEO and user experience.
 
 >[!BEGINTABS]
 
@@ -68,7 +68,7 @@ Sites Optimizer Ultimate adds the ability to deploy auto-optimization for broken
 
 ![Deploy optimization of broken backlinks](./assets/broken-backlinks/deploy-optimization.png){align="center"}
 
-Selecting **Deploy optimization** will update the AEM Site's redirect rules to map the **broken target URL** to the **suggested URL**. This ensures website visitors and search bots following the broken links on the **referring pages**  are redirected to the correct page on your site, improving SEO and user experience.
+Selecting **Deploy optimization** will update the AEM Site's redirect rules to map the **broken target URL** to the **suggested URL**. This ensures website visitors and search bots following the broken links on the **referring pages** are redirected to the correct page on your site, improving SEO and user experience.
 
 >[!TAB Request approval]
 
