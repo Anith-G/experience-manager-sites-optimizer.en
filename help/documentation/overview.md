@@ -39,7 +39,7 @@ Explore the AEM Sites Optimizer documentation to learn about key UI components, 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./basics.md" target="_blank" rel="referrer" title="Home">Home</a>
+                        <a href="./basics.md" target="_blank" rel="referrer" title="Basics">Basics</a>
                     </p>
                     <p class="is-size-6">Learn about the basics of Sites Optimizer and how to navigate it.</p>
                 </div>
