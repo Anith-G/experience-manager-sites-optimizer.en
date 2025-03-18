@@ -15,9 +15,9 @@ Explore the AEM Sites Optimizer documentation to learn about key UI components, 
 
 <!-- CARDS 
 
-* ./home.md
-  {title = Home}
-  {image = ./assets/home/card.png}
+* ./basics.md
+  {title = Basics}
+  {image = ./assets/basics/card.png}
 * ./opportunities/overview.md
   {title = Opportunities}
 * ./settings.md
@@ -31,7 +31,7 @@ Explore the AEM Sites Optimizer documentation to learn about key UI components, 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./basics.md" title="Home" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="./assets/home/card.png" alt="Home"
+                        <img class="is-bordered-r-small" src="./assets/basics/card.png" alt="Home"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
