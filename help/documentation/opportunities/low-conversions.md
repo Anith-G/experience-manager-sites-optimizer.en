@@ -8,7 +8,7 @@ badgeFormOptimization: label="Form Optimization" type="Caution" url="../../oppor
 
 ![Low views opportunity](./assets/low-conversions/hero.png){align="center"}
 
-The low views opportunity identifies forms on your website that have low view rates. This opportunity helps you understand which forms are not performing well and provides suggestions on how to improve their engagement rates. By optimizing views ofyour forms, you can increase the number of form submissions and improve the overall performance of your website.
+The low views opportunity identifies forms on your website that have low view rates. This opportunity helps you understand which forms are not performing well and provides suggestions on how to improve their engagement rates. By optimizing views of your forms, you can increase the number of form submissions and improve the overall performance of your website.
 
 ## Auto-identify
 
@@ -20,7 +20,7 @@ Each webpage with a form with low views is listed as its own **Low views** oppor
 
 ![Auto-suggest low conversions](./assets/low-conversions/auto-suggest.png){align="center"}
 
-Auto-suggest provides AI-generated webpage variations that are designed to increase the views of your forms. Each variation is displays the **project conversion rate increase** based on its potential to improve form engagement, helping you prioritize the most effective suggestions.
+Auto-suggest provides AI-generated webpage variations that are designed to increase the views of your forms. Each variation displays the **project conversion rate increase** based on its potential to improve form engagement, helping you prioritize the most effective suggestions.
 
 >[!BEGINTABS]
 

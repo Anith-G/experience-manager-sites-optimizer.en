@@ -8,7 +8,7 @@ badgeTrafficAcquisition: label="Traffic acquisition" type="Caution" url="../../o
 
 ![Invalid or missing metadata opportunity](./assets/missing-or-invalid-metadata/hero.png){align="center"}
 
-The invalid or missing metadata opportunity identifies missing or faulty metadata on your web pages. Fixing metadata issues boosts SEO by improving content visibility,search rankings, and user engagement. These issues can arise from factors like missing or invalid tags, descriptions that are too long or too short and so on.
+The invalid or missing metadata opportunity identifies missing or faulty metadata on your web pages. Fixing metadata issues boosts SEO by improving content visibility, search rankings, and user engagement. These issues can arise from factors like missing or invalid tags, descriptions that are too long or too short and so on.
 
 The invalid or missing metadata opportunity displays a summary at the top of the page, including a synopsis of the problem and its impact on your site and business.
 
@@ -46,9 +46,9 @@ If you disagree with the AI-generated suggestion, you can edit the suggested met
 
 * **Path** – The path to the page that contains the metadata (or lack of).
 * **Issue description** – Indicates the type of issue impacting the metadata tag and a short description.
-* **Suggestion for tag value** – The AI-generated suggestion on how to change or update the metadata tag. For example how many characters should the tag update contain and so on.
+* **Suggestion for tag value** – The AI-generated suggestion on how to change or update the metadata tag. For example, how many characters should the tag update contain and so on.
 * **Original tag content** - The original tag value.
-* **Target tag value** - Edit this field and manually add the desired tag value. When you select **Save** this is the value that will be applied to the proposed update.
+* **Target tag value** - Edit this field and manually add the desired tag value. When you select **Save**, this is the value that will be applied to the proposed update.
 * **Suggestion** - The AI-generated suggestion on how to change the value.
 * **Save** - Saves and applies the value in the **Target tag value** field.
 
