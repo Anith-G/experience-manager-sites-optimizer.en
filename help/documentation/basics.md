@@ -7,13 +7,13 @@ description: Learn about the basics of Sites Optimizer and how to navigate it.
 
 ![Sites Optimizer home](./assets/basics/hero.png){align="center"}
 
-The Sites Optimizer Dashboard provides a high-level overview of your site's performance and opportunities for improvement.
+The Sites Optimizer dashboard provides a high-level overview of your site's performance and opportunities for improvement.
 
 ## Domain manager
 
 ![Site Optimizer domain manager](./assets/basics/domain-manager.png){align="center"}
 
-The domain manager context menu  allows you to choose the AEM site, by domain, you want to assess and optimize. Sites Optimizer provides a list of all the production AEM sites registered in [Cloud Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/edge-delivery-sites/add-edge-delivery-site).
+The domain manager context menu allows you to choose the AEM site, by domain, you want to assess and optimize. Sites Optimizer provides a list of all the production AEM sites registered in [Cloud Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/edge-delivery-sites/add-edge-delivery-site).
 
 ## Navigation
 
@@ -53,9 +53,9 @@ Opportunities can be filtered by keywords, tags, or URLs, or by [opportunity typ
 Each opportunity provides a brief description of the issue, its potential impact on your site, and a link to full details. You can also see its status, indicating whether it has been optimized or is still pending.  
 
 * **Opportunity title** – A brief description of the issue and its potential impact on your site's performance.
-* **Last updated** – The date the opportunity the opportunity was last updated, by Sites Optimizer with new data.
+* **Last updated** – The date the opportunity was last updated by Sites Optimizer with new data.
 * **Issue count** - The number of instances of the issue identified on your site.
-* **Opportunity type(s)** – The [type(s) of the opportunity](../opportunity-types/overview.md), this opportunity is part of -- such as traffic acquisition, engagement, or site health.
+* **Opportunity type(s)** – The [type(s) of the opportunity](../opportunity-types/overview.md) this opportunity is part of -- such as traffic acquisition, engagement, or site health.
 
 The summary information for each opportunity varies by type and may include details on revenue impact, traffic, user engagement, or security threats.  
 
