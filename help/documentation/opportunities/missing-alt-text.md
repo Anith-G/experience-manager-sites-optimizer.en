@@ -45,7 +45,7 @@ If you disagree with the AI-generated suggestion, you can edit the suggested alt
 * **Image** – A read-only preview of the image that requires alt text.  
 * **Target ALT text** – An editable field where you can manually enter a descriptive alt text for the image. Ensure the alt text clearly conveys the image's content and purpose concisely. When relevant, include keywords naturally without overloading them.  
 
->[!TAB Ignore suggestion]
+>[!TAB Ignore entries]
 
 You can choose to ignore entries in the opportunity list. Selecting the **ignore icon** removes the entry from the list. Ignored entries can be re-engaged from the **Ignored** tab at the top of the opportunity page.
 

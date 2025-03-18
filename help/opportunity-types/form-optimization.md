@@ -15,10 +15,10 @@ Form optimization in AEM Sites Optimizer is essential for improving user interac
  
 * ../documentation/opportunities/low-views.md
   {title=Low views}
-  {image=../assets/common/card-arrows.png}
+  {image=../assets/common/card-bag.png}
 * ../documentation/opportunities/low-conversions.md
   {title=Low conversions}
-  {image=../assets/common/card-arrows.png}
+  {image=../assets/common/card-bag.png}
 
 --->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -28,7 +28,7 @@ Form optimization in AEM Sites Optimizer is essential for improving user interac
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../documentation/opportunities/low-views.md" title="Low views" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-arrows.png" alt="Low views"
+                        <img class="is-bordered-r-small" src="../assets/common/card-bag.png" alt="Low views"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -51,7 +51,7 @@ Form optimization in AEM Sites Optimizer is essential for improving user interac
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../documentation/opportunities/low-conversions.md" title="Low conversions" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-arrows.png" alt="Low conversions"
+                        <img class="is-bordered-r-small" src="../assets/common/card-bag.png" alt="Low conversions"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
