@@ -3,7 +3,7 @@ title: Sites Optimizer Home
 description: Learn about the basics of Sites Optimizer and how to navigate it.
 ---
 
-# Sites Optimizer home
+# Sites Optimizer basics
 
 ![Sites Optimizer home](./assets/home/hero.png){align="center"}
 
