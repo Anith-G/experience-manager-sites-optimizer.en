@@ -15,7 +15,7 @@ Opportunities are available via the **Opportunities** menu option in [Site Optim
 
 ## Opportunity status
 
-![Opportunity status](help/documentation/opportunities/assets/overview/opportunity-status.png){align="center"}
+![Opportunity status](/help/documentation/opportunities/assets/overview/opportunity-status.png){align="center"}
 
 Opportunities can be filtered by status using the tabs across the top:
 
@@ -34,7 +34,7 @@ With a [opportunity status](#opportunity-status) selected, you can view a list o
 
 ### Opportunity details
 
-![Opportunity details](help/documentation/opportunities/assets/overview/opportunity-details.png){align="center"}
+![Opportunity details](/help/documentation/opportunities/assets/overview/opportunity-details.png){align="center"}
 
 Each opportunity provides a brief description of the issue, its potential impact on your site, and a link to full details. You can also see its status, indicating whether it has been optimized or is still pending.  
 
