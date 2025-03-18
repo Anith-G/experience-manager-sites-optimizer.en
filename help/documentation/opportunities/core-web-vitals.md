@@ -12,7 +12,7 @@ The core web vitals opportunity identifies issues that can degrade the user expe
 
 To begin, the core web vitals opportunity displays a summary at the top of the page, including a synopsis of the problem and its impact on your site and business.
 
-* **Projected traffic lost** – The estimated traffic loss due core web vitals that are below performance thresholds.
+* **Projected traffic lost** – The estimated traffic loss due to core web vitals that are below performance thresholds.
 * **Projected traffic value** – The estimated value of the lost traffic.
 
 ## Auto-identify
