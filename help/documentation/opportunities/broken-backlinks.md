@@ -60,7 +60,7 @@ You can choose to ignore entires with the broken target URL. Selecting the **ign
 
 ![Auto-optimize broken backlinks](./assets/broken-backlinks/auto-optimize.png){align="center"}
 
-Sites Optimizer Ultimate adds the ability to deploy auto-optimization for broken backlinks. Selecting the **Auto-optimize** button automatically updates the AEM Site's redirect rules to map the **broken target URL** to the **suggested URL**. This ensures website visitors and search bots following the broken links on the **referring pages**  are redirected to the correct page on your site, improving SEO and user experience.
+Sites Optimizer Ultimate adds the ability to deploy auto-optimization for broken backlinks. Selecting the **Auto-optimize** button automatically updates the AEM Site's redirect rules to map the **broken target URL** to the **suggested URL**. This ensures website visitors and search bots following the broken links on the **referring pages** are redirected to the correct page on your site, improving SEO and user experience.
 
 >[!BEGINTABS]
 
@@ -68,7 +68,7 @@ Sites Optimizer Ultimate adds the ability to deploy auto-optimization for broken
 
 ![Deploy optimization of broken backlinks](./assets/broken-backlinks/deploy-optimization.png){align="center"}
 
-Selecting **Deploy optimization** will update the AEM Site's redirect rules to map the **broken target URL** to the **suggested URL**. This ensures website visitors and search bots following the broken links on the **referring pages**  are redirected to the correct page on your site, improving SEO and user experience.
+Selecting **Deploy optimization** will update the AEM Site's redirect rules to map the **broken target URL** to the **suggested URL**. This ensures website visitors and search bots following the broken links on the **referring pages** are redirected to the correct page on your site, improving SEO and user experience.
 
 >[!TAB Request approval]
 
