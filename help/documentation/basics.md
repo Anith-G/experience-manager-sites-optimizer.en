@@ -1,5 +1,5 @@
 ---
-title: Sites Optimizer Home
+title: Sites Optimizer Basics
 description: Learn about the basics of Sites Optimizer and how to navigate it.
 ---
 
