@@ -30,7 +30,7 @@ Explore the AEM Sites Optimizer documentation to learn about key UI components, 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./home.md" title="Home" target="_blank" rel="referrer">
+                    <a href="./basics.md" title="Home" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="./assets/home/card.png" alt="Home"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -39,11 +39,11 @@ Explore the AEM Sites Optimizer documentation to learn about key UI components, 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./home.md" target="_blank" rel="referrer" title="Home">Home</a>
+                        <a href="./basics.md" target="_blank" rel="referrer" title="Home">Home</a>
                     </p>
                     <p class="is-size-6">Learn about the basics of Sites Optimizer and how to navigate it.</p>
                 </div>
-                <a href="./home.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="./basics.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
                 </a>
             </div>
