@@ -12,18 +12,31 @@ Sites Optimizer is comprised as ever-growing set of opportunities powered by Ado
 
 Opportunities are available via the **Opportunities** menu option in [Site Optimizer's persistent navigation](/help/documentation/basics.md#navigation).
 
-
 ## Opportunity status
 
 ![Opportunity status](/help/documentation/opportunities/assets/overview/opportunity-status.png){align="center"}
 
 Opportunities can be filtered by status using the tabs across the top:
 
-* **Current** - Opportunities that are currently pending.
-* **Ignored** - Opportunities that have been ignored. Ignored opportunities can be re-engaged from this view.
-* **Optimized** - Opportunities that have been optimized.
+>[!BEGINTABS]
 
-Opportunities can be filtered by keywords, tags, or URLs, or by [opportunity type](/help/opportunity-types/overview.md) to help you focus on the most critical areas of improvement.
+>[!TAB Current]
+
+![Current opportunities](./assets/overview/current.png){align="center"}
+
+Opportunities that are currently pending.
+
+>[!TAB Ignored]
+
+![Ignored opportunities](./assets/overview/ignored.png){align="center"}
+
+ Opportunities that have been ignored. Ignored opportunities can be restored from this view.
+
+>[!TAB Optimized]
+
+A historical list of opportunities that have been optimized.
+
+>[!ENDTABS]
 
 ## Opportunities
 
@@ -47,7 +60,7 @@ The summary information for each opportunity varies by type and may include deta
 
 To view an opportunity's details, click the **Details** button.  
 
-To exclude an opportunity from the Sites Optimizer dashboard and reports, click the **Ignore** button.  
+To exclude an opportunity from the Sites Optimizer dashboard, click the **Ignore** button.  This action moves the opportunity to the [**Ignored** tab](#opportunity-status).
 
 ## All opportunities
 
