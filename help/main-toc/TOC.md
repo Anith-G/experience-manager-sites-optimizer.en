@@ -6,7 +6,7 @@ user-guide-description: This is a description for the user guide that will be di
 
 # Experience Manager Sites Optimizer {#content}
 
-+ [Sites Optimizer](/help/sites-optimizer.md)
++ [Sites Optimizer](/help/home.md)
 + Opportunity types{#opportunity-types}
   + [Overview](/help/opportunity-types/overview.md)
   + [Traffic acquisition](/help/opportunity-types/traffic-acquisition.md)
@@ -16,7 +16,7 @@ user-guide-description: This is a description for the user guide that will be di
   + [Form optimization](/help/opportunity-types/form-optimization.md)
 + Documentation{#documentation}
   + [Overview](/help/documentation/overview.md)
-  + [Home](/help/documentation/home.md)
+  + [Basics](/help/documentation/basics.md)
   + Opportunities{#opportunities}
     + [Overview](/help/documentation/opportunities/overview.md)
     + [Accessibility issues](/help/documentation/opportunities/accessibility-issues.md)
