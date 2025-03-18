@@ -14,9 +14,7 @@ Opportunities are available via the **Opportunities** menu option in [Site Optim
 
 ## Opportunity status
 
-![Opportunity status](/help/documentation/opportunities/assets/overview/opportunity-status.png){align="center"}
-
-Opportunities can be filtered by status using the tabs across the top:
+Opportunities can be organized and filtered by status using the tabs across the top:
 
 >[!BEGINTABS]
 
