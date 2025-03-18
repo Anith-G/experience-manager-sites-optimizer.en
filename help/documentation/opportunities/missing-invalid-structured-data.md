@@ -32,7 +32,7 @@ The missing or invalid structured data opportunity lists out all the issues dete
 The invalid or missing structured data opportunity also provides AI-generated suggestions on how to change or update the structured data. When you click the suggestions button, a new window appears that contains the following:
 
 * **Page path** – A field that contains the path to the page with invalid or missing structured data.
-* **Issues** – A field that contains the number of issues and a drop down menu that lists all the issues.
+* **Issues** – A field that contains the number of issues and a drop-down menu that lists all the issues.
 * **Suggestion field** - An AI-generated description and suggestions for suitable structured data updates. You can scroll down for additional suggestions and issues.
 
 ## Auto-optimize [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
