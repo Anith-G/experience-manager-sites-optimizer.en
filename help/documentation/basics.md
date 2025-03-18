@@ -62,4 +62,3 @@ The summary information for each opportunity varies by type and may include deta
 To view an opportunity's details, click the **Details** button.  
 
 To exclude an opportunity from the Sites Optimizer dashboard and reports, click the **Ignore** button.  
-
