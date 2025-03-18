@@ -8,7 +8,7 @@ badgeEngagement: label="Engagement" type="Caution" url="../../opportunity-types/
 
 ![Broken internal links opportunity](./assets/broken-internal-links/hero.png){align="center"}
 
-Broken internal links impact the search engine's ability to index your site and negatively affect both user experience and search engine optimization. To help fix this problem, the broken internal links opportunity points out broken URL's and provides suggestions for valid link updates. Addressing these issues will improve user engagement and ensure smooth navigation and accessibility.
+Broken internal links impact the search engine's ability to index your site and negatively affect both user experience and search engine optimization. To help fix this problem, the broken internal links opportunity points out broken URLs and provides suggestions for valid link updates. Addressing these issues will improve user engagement and ensure smooth navigation and accessibility.
 
 The broken internal links opportunity displays a summary at the top of the page, including a synopsis of the problem and its impact on your site and business.
 
@@ -21,7 +21,7 @@ The broken internal links opportunity displays a summary at the top of the page,
 
 The broken internal links opportunity auto-identifies and lists out all the broken internal links on your pages, and includes the following:
 
-* **Reffering page** – The page that contains the broken link.
+* **Referring page** – The page that contains the broken link.
 * **Broken Target URL** – The broken internal link.
 * **Suggestion** – An AI-generated suggestion on how to update the broken link. See the auto-suggest section for more details.
 
@@ -44,13 +44,13 @@ Select the **information** icon to view the AI rationale for the suggested URL. 
 
 <!--![Edit suggested URL of broken internal links](./assets/broken-internal-links/edit-target-url.png){align="center"}-->
 
-If you disagree with the AI-generated suggestion, you can edit the suggested link value by selecting the **edit icon**. This allows you to manually input the desired link. The edit window contains the **Broken target path** of the link the **Desired target path** where you can manually edit the link and a field with the Ai-generated suggestion. After you are done editing, click **Save** to update the broken link entry. A yellow dot will appear in the entry field to indicate that the link has been edited.
+If you disagree with the AI-generated suggestion, you can edit the suggested link value by selecting the **edit icon**. This allows you to manually input the desired link. The edit window contains the **Broken target path** of the link, the **Desired target path** where you can manually edit the link and a field with the Ai-generated suggestion. After you are done editing, click **Save** to update the broken link entry. A yellow dot will appear in the entry field to indicate that the link has been edited.
 
 >[!TAB Ignore entries]
 
 <!--![Ignore broken links](./assets/broken-internal-links/ignore.png){align="center"}-->
 
-You can choose to ignore entries with the targeted broken URL's. Selecting the **ignore icon** removes the entry from the opportunity list. Ignored entries can be re-engaged from the **Ignored** tab at the top of the opportunity page.
+You can choose to ignore entries with the targeted broken URLs. Selecting the **ignore icon** removes the entry from the opportunity list. Ignored entries can be re-engaged from the **Ignored** tab at the top of the opportunity page.
 
 >[!ENDTABS]
 
