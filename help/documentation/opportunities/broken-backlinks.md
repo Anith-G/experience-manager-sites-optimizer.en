@@ -12,18 +12,18 @@ The broken backlinks opportunity identifies links from other websites to your si
 
 The broken backlinks opportunity displays a summary at the top of the page, including a synopsis of the problem and its impact on your site and business.
 
-* **Projected traffic lost** – The estimated traffic loss due to broken backlinks.
-* **Projected traffic value** – The estimated value of the lost traffic.
+* **Projected traffic lost** - The estimated traffic loss due to broken backlinks.
+* **Projected traffic value** - The estimated value of the lost traffic.
 
 ## Auto-identify
 
-![Auto-identify broken backlinks](./assets/broken-backlinks/auto-identify.png){align="center"}{align="center"} 
+![Auto-identify broken backlinks](./assets/broken-backlinks/auto-identify.png){align="center"}
 
 The broken backlinks opportunity lists out all the broken backlinks on your site, including the:
 
-* **Referring page** – The website domain that contains the broken link.
-* **Priority** – High, medium, or low, indicating the impact the broken link has on SEO based on TODO.
-* **Broken target URL** – The non-existing URL on your site that is being linked to.
+* **Referring page** - The website domain that contains the broken link.
+* **Priority** - High, medium, or low, indicating the impact the broken link has on SEO based on TODO.
+* **Broken target URL** - The non-existing URL on your site that is being linked to.
 
 ## Auto-suggest
 
