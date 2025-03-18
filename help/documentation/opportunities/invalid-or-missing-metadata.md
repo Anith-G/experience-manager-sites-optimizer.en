@@ -12,8 +12,8 @@ The invalid or missing metadata opportunity identifies missing or faulty metadat
 
 The invalid or missing metadata opportunity displays a summary at the top of the page, including a synopsis of the problem and its impact on your site and business.
 
-* **Projected traffic lost** – The estimated traffic loss due to faulty metadata.
-* **Projected traffic value** – The estimated value of the lost traffic.
+* **Projected traffic lost** - The estimated traffic loss due to faulty metadata.
+* **Projected traffic value** - The estimated value of the lost traffic.
 
 ## Auto-identify
 
@@ -21,9 +21,9 @@ The invalid or missing metadata opportunity displays a summary at the top of the
 
 The invalid or missing metadata opportunity lists out all the faulty metadata on your pages, and includes the following:
 
-* **Page** – The page that contains the invalid or missing metadata.
-* **Issue** – Indicates the type of issue impacting the metadata tag. These can range from missing titles to duplicate H1's and so on.
-* **Value** – The current metadata tag value that needs to be changed.
+* **Page** - The page that contains the invalid or missing metadata.
+* **Issue** - Indicates the type of issue impacting the metadata tag. These can range from missing titles to duplicate H1's and so on.
+* **Value** - The current metadata tag value that needs to be changed.
 * **Suggestion** - An AI-generated suggestion for suitable tag updates. See the section below for more details.
 
 ## Auto-suggest
@@ -44,9 +44,9 @@ Selecting the **information icon** provides the AI rationale for the suggested u
 
 If you disagree with the AI-generated suggestion, you can edit the suggested metadata value by selecting the **edit icon**. This allows you to manually input the value you believe is the best fit for the metadata. The edit window contains the following:
 
-* **Path** – The path to the page that contains the metadata (or lack of).
-* **Issue description** – Indicates the type of issue impacting the metadata tag and a short description.
-* **Suggestion for tag value** – The AI-generated suggestion on how to change or update the metadata tag. For example, how many characters should the tag update contain and so on.
+* **Path** - The path to the page that contains the metadata (or lack of).
+* **Issue description** - Indicates the type of issue impacting the metadata tag and a short description.
+* **Suggestion for tag value** - The AI-generated suggestion on how to change or update the metadata tag. For example, how many characters should the tag update contain and so on.
 * **Original tag content** - The original tag value.
 * **Target tag value** - Edit this field and manually add the desired tag value. When you select **Save**, this is the value that will be applied to the proposed update.
 * **Suggestion** - The AI-generated suggestion on how to change the value.
