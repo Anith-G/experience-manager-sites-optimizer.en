@@ -44,7 +44,9 @@ Click on each variation to preview it on the right side of the screen. In the to
 
 >[!ENDTABS]
 
-## Auto-optimize [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
+## Auto-optimize
+
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![Auto-optimize high bounce rate](./assets/high-bounce-rate/auto-optimize.png){align="center"}
 

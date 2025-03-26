@@ -28,7 +28,9 @@ The **Accessibility issues opportunity** identifies accessibility issues on your
 
 Auto-suggest provides AI-generated recommendations in the **How to fix the issue** field, which provides prescriptive guidance on what to do to fix the issue.
 
-## Auto-optimize [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
+## Auto-optimize
+
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![Auto-optimize accessibility issues](./assets/accessibility-issues/auto-optimize.png){align="center"}
 

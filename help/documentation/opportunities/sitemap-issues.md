@@ -69,8 +69,9 @@ Each sitemap issue [that meets the filter criteria](#auto-identify) is listed in
 
 Suggestions typically include an updated site path to correct the sitemap entry. In some cases, they may also provide more detailed instructions, such as specifying the correct redirect target.  
 
-## Auto-optimize [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
+## Auto-optimize
 
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![Auto-optimize Sitemap issues](./assets/sitemap-issues/auto-optimize.png){align="center"}
 

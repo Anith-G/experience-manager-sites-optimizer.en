@@ -35,8 +35,9 @@ The invalid or missing structured data opportunity also provides AI-generated su
 * **Issues** – A field that contains the number of issues and a drop-down menu that lists all the issues.
 * **Suggestion field** - An AI-generated description and suggestions for suitable structured data updates. You can scroll down for additional suggestions and issues.
 
-## Auto-optimize [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
+## Auto-optimize
 
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![Auto-optimize suggested missing or invalid structured data](./assets/missing-or-invalid-structured-data/auto-optimize.png){align="center"}
 

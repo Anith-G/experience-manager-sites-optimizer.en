@@ -36,8 +36,9 @@ The core web vitals opportunity provides AI-generated fix suggestions. When you 
 
 Each category can contain several issues so make sure to scroll down to see the full list of issues and recommendations.  Additionally, there are two performance gages for both mobile and desktop for each metric.
 
-## Auto-optimize [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
+## Auto-optimize
 
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![Auto-optimize core web vitals opportunity](./assets/core-web-vitals/auto-optimize.png){align="center"}
 

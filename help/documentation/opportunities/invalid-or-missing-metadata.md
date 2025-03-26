@@ -58,8 +58,9 @@ You can choose to ignore entries with the targeted broken or invalid metadata. S
 
 >[!ENDTABS]
 
-## Auto-optimize [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
+## Auto-optimize
 
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![Auto-optimize suggested invalid or missing metadata](./assets/missing-or-invalid-metadata/auto-optimize.png){align="center"}
 

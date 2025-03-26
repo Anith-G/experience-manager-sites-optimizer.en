@@ -46,7 +46,9 @@ You can choose to ignore entries from the vulnerability list. Selecting the **ig
 >[!ENDTABS]
 
 
-## Auto-optimize [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
+## Auto-optimize
+
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![Auto-optimize website vulnerabilities](./assets/website-vulnerabilities/auto-optimize.png){align="center"}
 

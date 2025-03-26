@@ -27,7 +27,9 @@ The **Website Permissions opportunity** feature automatically identifies and lis
 
 Auto-suggest provides AI-generated recommendations in the **Suggested permissions** field, allowing you to replace any flagged permissions with secure alternatives.
 
-## Auto-optimize [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
+## Auto-optimize
+
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![Auto-optimize website permissions](./assets/website-permissions/auto-optimize.png){align="center"}
 

@@ -23,8 +23,9 @@ The cross-site scripting opportunity identifies and fixes vulnerabilities in you
 
 * **Suggested fix** - An AI-generated suggestion on how to fix the vulnerability.
 
-## Auto-optimize [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
+## Auto-optimize
 
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 >[!BEGINTABS]
 

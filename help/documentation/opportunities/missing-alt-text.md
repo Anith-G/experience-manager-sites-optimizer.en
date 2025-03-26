@@ -51,8 +51,9 @@ You can choose to ignore entries in the opportunity list. Selecting the **ignore
 
 >[!ENDTABS]
 
-## Auto-optimize [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
+## Auto-optimize
 
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![Auto-optimize missing alt text](./assets/missing-alt-text/auto-optimize.png){align="center"}
 

@@ -54,9 +54,9 @@ You can choose to ignore entires with the broken target URL. Selecting the **ign
 
 >[!ENDTABS]
 
+## Auto-optimize
 
-## Auto-optimize [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
-
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![Auto-optimize broken backlinks](./assets/broken-backlinks/auto-optimize.png){align="center"}
 
