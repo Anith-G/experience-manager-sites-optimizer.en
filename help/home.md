@@ -1,6 +1,6 @@
 ---
 title: AEM Sites Optimizer 
-description: This is the AEM Sites Optimizer landing page.
+description: Boost your website’s performance with Sites Optimizer — improve speed, reduce costs, and enhance reliability for better engagement.
 ---
 
 # AEM Sites Optimizer
